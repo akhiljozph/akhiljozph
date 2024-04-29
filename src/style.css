@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.pf-cntr {
+    background-color: var(--ajp--primary-background-color, #000000);
+    padding: 100px;
+}
+
+.abt-wrpr {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+}
+
+.prf-pic img {
+    max-width: 200px;
+    max-height: 240px;
+    border: 2px solid var(--ajp-primary-foreground-color, #ffc40c);
+    border-radius: 16px;
+}
+
+.abt-me .prf-ttl {
+    margin-bottom: 4px;
+}
+
+.abt-me .prf-ttl span {
+    font-family: "Yanone Kaffeesatz", sans-serif;
+    color: var(--ajp-primary-foreground-color, #ffc40c);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40px;
+}
+
+.abt-me .sub-ttl span {
+    font-family: "Yanone Kaffeesatz", sans-serif;
+    color: var(--ajp-primary-foreground-color, #ffc40c);
+    font-weight: 500;
+    font-style: normal;
+    font-size: 24px;
+}
