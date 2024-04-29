@@ -1,9 +1,10 @@
-# rust_Klassenzimmer
+# Akhil Joseph
 
-Rust doc - https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
+Senior Software Engineer
 
-Rust is an ahead-of-time compiled language.
+<ul>
+    <li>Angular</li>
+    <li>React.JS</li>
+    <li>Node.JS</li>
+</ul>
 
-Variables in rust are immutable by default and we make it to mutable by using 'mut' keyword.
-
-Rust’s naming convention for constants is to use all uppercase with underscores between words.
