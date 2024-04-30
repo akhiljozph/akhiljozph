@@ -1,33 +1,19 @@
 * {
     padding: 0;
     margin: 0;
+    background-color: var(--ajp--primary-background-color, #000000);
 }
 
-@keyframes typing {
-    from {
-        width: 0;
-    }
-
-    to {
-        width: 100%;
-    }
-}
-
-@keyframes blink-caret {
-
-    from,
-    to {
-        border-color: transparent;
-    }
-
-    50% {
-        border-color: var(--ajp-primary-foreground-color, #ffc40c);
-    }
+body {
+    display: flex;
+    justify-content: center;
 }
 
 .pf-cntr {
-    background-color: var(--ajp--primary-background-color, #000000);
-    padding: 100px;
+    gap: 16px;
+    display: flex;
+    max-width: 1180px;
+    flex-direction: column;
 }
 
 .abt-wrpr {
@@ -39,8 +25,8 @@
 .prf-pic img {
     max-width: 200px;
     max-height: 240px;
-    border: 2px solid var(--ajp-primary-foreground-color, #ffc40c);
     border-radius: 16px;
+    border: 2px solid var(--ajp-primary-foreground-color, #ffc40c);
 }
 
 .abt-me .prf-ttl {
@@ -74,4 +60,30 @@
     font-style: normal;
     font-size: 16px;
     line-height: 24px;
+}
+
+.tech-wrpr .tech-ttl span {
+    font-family: "Yanone Kaffeesatz", sans-serif;
+    color: var(--ajp-primary-foreground-color, #ffc40c);
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40px;
+}
+
+.tech-ttl {
+    margin-bottom: 16px;
+}
+
+.tech-cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.tech-cards .tech-card .card-ttl span {
+    font-family: "Yanone Kaffeesatz", sans-serif;
+    color: var(--ajp-primary-foreground-color, #ffc40c);
+    font-weight: 500;
+    font-style: normal;
+    font-size: 24px;
 }
