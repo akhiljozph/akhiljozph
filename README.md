@@ -52,8 +52,3 @@ I'm having very good knowledge in using storybook for component library implemen
     <li>JIRA</li>
     <li>Linear</li>
 </ol>
-
-## My Startup Projects
-
-## Testimonials
-
