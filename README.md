@@ -44,6 +44,7 @@ I'm having very good knowledge in using storybook for component library implemen
 
 <ol>
     <li>VS Code</li>
+    <li>Intellij Idea</li>
 </ol>
 
 ## Bug Tracking Tools
