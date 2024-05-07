@@ -49,7 +49,7 @@ I'm having very good knowledge in using storybook for component library implemen
 
 ## Bug Tracking Tools
 
-<ol style="color: red;">
+<ol>
     <li>JIRA</li>
     <li>Linear</li>
 </ol>
