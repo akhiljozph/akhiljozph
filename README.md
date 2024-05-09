@@ -14,6 +14,13 @@ I'm having very good knowledge in using storybook for component library implemen
     <li>Express.JS</li>
 </ol>
 
+## Databases
+
+<ol>
+    <li>MongoDB</li>
+    <li>MySQL</li>
+</ol>
+
 ## Other Technologies
 
 <ol>
