@@ -37,6 +37,7 @@ I'm having very good knowledge in using storybook for component library implemen
     <li>Jest</li>
     <li>React Resolver</li>
     <li>HapiJS</li>
+    <li>CSSInJS</li>
 </ol>
 
 ## Debugging Tools
