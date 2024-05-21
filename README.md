@@ -62,13 +62,13 @@ I'm having very good knowledge in using storybook for component library implemen
     <li>Linear</li>
 </ol>
 
-## API Documentation
+## API Documentation Tools
 
 <ol>
     <li>Swagger</li>
 </ol>
 
-## API Testing
+## API Testing Tools
 
 <ol>
     <li>Postman</li>
