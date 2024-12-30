@@ -16,7 +16,7 @@ Currently I'm working as a Senior Software Engineer at [Trenser Technology Solut
 
 - Express.js
 
-### Data Base
+### Database
 
 - MongoDB
 - PostgreSQL
