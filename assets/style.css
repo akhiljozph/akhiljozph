@@ -42,3 +42,9 @@
 .front-end card {
     font-size: 1rem;
 }
+
+@media screen and (max-width: 720px) {
+    .landing .wrapper .title {
+        font-size: 8rem;
+    }
+}
