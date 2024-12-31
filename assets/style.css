@@ -1,5 +1,38 @@
-.technologies {
+* {
+    margin: 0;
+    padding: 0;
+}
 
+.landing {
+    padding: 2rem;
+    height: calc(100vh - 4rem);
+    background-color: #252525;
+}
+
+.landing .wrapper {
+    border-radius: 0.5rem;
+    background-color: #ffc40c;
+    height: calc(100vh - 4rem);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.landing .wrapper .title {
+    text-transform: uppercase;
+    color: #252525;
+    font-size: 15rem;
+    font-weight: 700;
+    font-family: "Yanone Kaffeesatz", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.technologies {
+    margin: 2rem;
+    padding: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 .front-end {
