@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Akhil Joseph
+## Hi there 👋 I'm [Akhil Joseph](https://akhiljozph.github.io/akhiljozph/)
 
 Currently I'm working as a Senior Software Engineer at [Trenser Technology Solutions Pvt. Ltd.](https://trenser.com).
 
