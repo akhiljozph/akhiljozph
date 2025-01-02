@@ -14,14 +14,18 @@
     background-color: #ffc40c;
     height: calc(100vh - 4rem);
     text-align: center;
-    display: flex;
-    align-items: center;
     justify-content: center;
 }
 
+.landing .wrapper {
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    padding: 0 4rem;
+}
+
 .landing .wrapper .title {
-    text-transform: uppercase;
-    color: #252525;
+    color: #CAF1DE;
     font-size: 15rem;
     font-weight: 700;
     font-family: "Yanone Kaffeesatz", serif;
@@ -35,6 +39,10 @@
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
+.title el {
+    color: #252525;
+}
+
 .front-end {
 
 }
@@ -43,8 +51,35 @@
     font-size: 1rem;
 }
 
+.welcome {
+    font-family: "Yanone Kaffeesatz", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.designation {
+    font-family: "Yanone Kaffeesatz", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 3rem;
+    font-weight: 600;
+}
+
 @media screen and (max-width: 720px) {
+
+    .landing .wrapper {
+        text-align: center;
+    }
+
     .landing .wrapper .title {
         font-size: 8rem;
     }
+}
+
+/* COMMON CSS CLASSES */
+
+.txt-trnsfm-uprcas {
+    text-transform: uppercase;
 }
