@@ -36,15 +36,24 @@
 .technologies {
     margin: 2rem;
     padding: 1rem;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    font-weight: 700;
+}
+
+.technologies label {
+    font-size: 2rem;
 }
 
 .title el {
     color: #252525;
 }
 
-.front-end {
+.front-end label {
+    margin-bottom: 1rem;
+}
 
+.front-end card {
+    padding: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 .front-end card {
