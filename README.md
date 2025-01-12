@@ -15,6 +15,8 @@ Currently I'm working as a Senior Software Engineer at [Trenser Technology Solut
 ### Backend
 
 - Express.js
+- Koa.js
+- Sequelize
 
 ### Database
 
