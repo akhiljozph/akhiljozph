@@ -39,6 +39,11 @@
     font-weight: 700;
 }
 
+.technologies section {
+    display:flex;
+    flex-direction: column;
+}
+
 .technologies label {
     font-size: 2rem;
 }
