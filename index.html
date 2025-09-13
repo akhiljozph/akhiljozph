@@ -18,12 +18,12 @@
 </head>
 
 <body>
-    <section class="landing">
-        <div class="wrapper">
+    <section class="ajp-section landing">
+        <div class="ajp-wrpr wrapper">
             <label for="" class="txt-trnsfm-uprcas welcome">
                 hey there!
             </label>
-            <label for="" class="txt-trnsfm-uprcas title">
+            <label for="" class="txt-trnsfm-uprcas txt-fnt-wght-700 title">
                 i am <el>a</el>khil <el>j</el>oseph
             </label>
             <label for="" class="txt-trnsfm-uprcas designation">
@@ -31,30 +31,34 @@
             </label>
         </div>
     </section>
-    <section class="technologies">
-        <section class="front-end">
-            <label>Front-end Technologies</label>
-            <div>
-                <card id="angular" class="angular"> Angular </card>
-                <card class="react-js"> React.js </card>
-                <card class="storybook-js"> Storybook.js </card>
-            </div>
-        </section>
-        <section class="backend">
-            <label>Backend Technologies</label>
-            <div>
-                <card class="express-js"> Express.js </card>
-                <card class="koa-js"> Koa.js </card>
-                <card class="sequelize"> Sequelize </card>
-            </div>
-        </section>
-        <section class="database">
-            <label>Database</label>
-            <div>
-                <card class="mysql"> MySQL </card>
-                <card class="postgresql"> PostgreSQL </card>
-                <card class="mongodb"> MongoDB </card>
-            </div>
+    <section class="ajp-section txt-fnt-wght-700 ajp-tech-sctn">
+        <section class="ajp-wrpr ajp-tech-wrpr">
+            <section class="ajp-sctn-wrpr front-end">
+                <label>Front-end Technologies</label>
+                <div class="ajp-card-container">
+                    <card class="ajp-card angular" id="angular"> Angular </card>
+                    <card class="ajp-card react-js"> React.js </card>
+                    <card class="ajp-card storybook-js"> Storybook.js </card>
+                </div>
+            </section>
+            <section class="ajp-sctn-wrpr backend">
+                <label>Backend Technologies</label>
+                <div class="ajp-card-container">
+                    <card class="ajp-card express-js"> Express.js </card>
+                    <card class="ajp-card koa-js"> Koa.js </card>
+                    <card class="ajp-card nest-js"> Nest.js </card>
+                    <card class="ajp-card sequelize"> Sequelize </card>
+                </div>
+            </section>
+            <section class="ajp-sctn-wrpr database">
+                <label>Database</label>
+                <div class="ajp-card-container">
+                    <card class="ajp-card mysql"> MySQL </card>
+                    <card class="ajp-card postgresql"> PostgreSQL </card>
+                    <card class="ajp-card mongodb"> MongoDB </card>
+                    <card class="ajp-card redis"> Redis </card>
+                </div>
+            </section>
         </section>
     </section>
 </body>
