@@ -316,3 +316,41 @@
         font-size: 12rem;
     }
 }
+
+/* Animation updates */
+#animated-text {
+    white-space: nowrap;
+    overflow: hidden;
+    display: inline;
+    font-weight: bold;
+    position: relative;
+}
+
+#animated-text::after {
+    content: '|';
+    display: inline;
+    animation: blink 1s step-end infinite;
+}
+
+@keyframes blink {
+
+    0%,
+    100% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+}
+
+#animated-text.typing::after {
+    animation: none;
+    opacity: 1;
+    /* Cursor stays visible while typing */
+}
+
+.special-char {
+    color: var(--ajp-text-emphasize-color);
+    font-weight: bold;
+}
