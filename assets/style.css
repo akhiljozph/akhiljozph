@@ -8,8 +8,7 @@ body {
     font-style: normal;
 }
 
-.ajp-section {
-}
+.ajp-section {}
 
 .ajp-section-full-height {
     padding: 1rem 3rem;
@@ -30,6 +29,8 @@ body {
 
 .ajp-nav-section {
     display: flex;
+    gap: 1rem;
+    align-items: center;
 }
 
 .ajp-nav-section ul {
@@ -43,6 +44,63 @@ body {
     cursor: pointer;
     font-size: 1rem;
     font-weight: 500;
+    color: #000;
 }
 
-.ajp-scl-media-section {}
+.ajp-nav-section ul li a,
+.ajp-nav-section ul li a:visited {
+    color: #000;
+}
+
+
+.ajp-nav-section ul li a {
+    text-decoration: none;
+}
+
+.ajp-social-media-section a {
+    display: flex;
+    align-items: center;
+}
+
+
+.ajp-social-media-icon {}
+
+.ajp-github-icon {
+    width: 1.75rem;
+    height: 1.75rem;
+}
+
+.ajp-linkedin-icon {
+    width: 2rem;
+    height: 2rem;
+}
+
+.ajp-home-section {
+    padding: 0 3rem;
+    font-size: 5rem;
+    font-weight: 500;
+    display: flex;
+    height: calc(100vh - 5rem);
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ajp-home-description {}
+
+.ajp-description {}
+
+.ajp-description-wish {}
+
+.ajp-description-name {}
+
+.ajp-description-designation {
+    font-size: 4rem;
+}
+
+.ajp-home-profile img {
+    border-radius: 20rem;
+    height: 37.5rem;
+    width: 37.5rem;
+    border: 1rem solid #000;
+    object-fit: contain;
+}
