@@ -8,7 +8,9 @@ body {
     font-style: normal;
 }
 
-.ajp-section {}
+.ajp-section {
+    font-family: Poppins;
+}
 
 .ajp-section-full-height {
     padding: 1rem 3rem;
