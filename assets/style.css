@@ -102,6 +102,10 @@ body {
     font-size: 4rem;
 }
 
+.ajp-description-name .ajp-full-name::first-letter {
+    color: red !important;
+}
+
 .ajp-home-profile img {
     border-radius: 20rem;
     height: 37.5rem;
