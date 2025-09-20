@@ -10,19 +10,30 @@ body {
 
 .ajp-section {
     font-family: Poppins;
-}
-
-.ajp-section-full-height {
     padding: 1rem 3rem;
 }
 
+.ajp-nav-section {
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+    position: fixed;
+    box-sizing: border-box;
+    background-color: #fff;
+}
+
+.ajp-section-full-height {
+    min-height: 100vh;
+}
+
 .ajp-nav {
-    display: flex;
-    justify-content: space-between;
     width: 100%;
     height: 3rem;
+    display: flex;
     align-items: center;
     font-family: Poppins;
+    justify-content: space-between;
 }
 
 .ajp-nav-title {
@@ -31,20 +42,20 @@ body {
     font-family: Poppins;
 }
 
-.ajp-nav-section {
+.ajp-nav-wrapper {
     display: flex;
     gap: 1rem;
     align-items: center;
 }
 
-.ajp-nav-section ul {
+.ajp-nav-wrapper ul {
     list-style-type: none;
     flex-direction: row;
     display: flex;
     gap: 3rem;
 }
 
-.ajp-nav-section ul li {
+.ajp-nav-wrapper ul li {
     cursor: pointer;
     font-size: 1rem;
     font-weight: 500;
@@ -52,13 +63,13 @@ body {
     font-family: Poppins;
 }
 
-.ajp-nav-section ul li a,
-.ajp-nav-section ul li a:visited {
+.ajp-nav-wrapper ul li a,
+.ajp-nav-wrapper ul li a:visited {
     color: #000;
 }
 
 
-.ajp-nav-section ul li a {
+.ajp-nav-wrapper ul li a {
     text-decoration: none;
 }
 
@@ -81,11 +92,10 @@ body {
 }
 
 .ajp-home-section {
-    padding: 0 3rem;
+    padding: 5rem 3rem 0 3rem;
     font-size: 5rem;
     font-weight: 500;
     display: flex;
-    height: calc(100vh - 5rem);
     align-items: center;
     justify-content: space-between;
 }
