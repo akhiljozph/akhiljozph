@@ -128,3 +128,9 @@ body {
     padding: 5rem 3rem 0;
     min-height: calc(100vh - 5rem);
 }
+
+.ajp-about-sub-section {}
+
+.ajp-about-sub-section h2 {
+    padding: 1rem 0;
+}
