@@ -233,9 +233,8 @@ body {
     }
 
     .ajp-home-section {
-        padding-top: 7.5rem;
         flex-direction: column-reverse;
-        justify-content: normal;
+        justify-content: center;
     }
 
     .ajp-home-profile-section {
@@ -269,8 +268,13 @@ body {
         gap: 0.5rem;
         font-size: 1rem;
     }
+
     .ajp-home-typing {
-        font-size: 1rem;
+        font-size: 0.75rem;
+    }
+
+    .ajp-home-typing::first-letter {
+        text-transform: uppercase;
     }
 
     .ajp-home-typing-wrapper {
