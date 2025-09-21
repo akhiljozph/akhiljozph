@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>AJ Portfolio</title>
 
-    <link rel="stylesheet" href="./assets/style.css" />
+    <!-- <link rel="stylesheet" href="./assets/style.css" /> -->
+    <link rel="stylesheet" href="./assets/v2.styles.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
@@ -17,50 +18,62 @@
 </head>
 
 <body>
-    <section class="ajp-section ajp-nav-section">
-        <nav class="ajp-nav" aria-label="Main navigation">
-            <header>
-                <h2 class="ajp-nav-title">AJ</h2>
+    <section id="nav-bar" class="ajp-section ajp-nav-bar-section">
+        <nav class="ajp-nav-bar" aria-label="Main navigation">
+            <header class="ajp-nav-bar-logo">
+                <div class="ajp-nav-bar-nick-name">AJ</div>
+                <div>akhil joseph</div>
             </header>
-            <div class="ajp-nav-wrapper">
+            <div class="ajp-nav-bar-menu">
                 <ul>
-                    <li><a href="#home" class="nav-link">Home</a></li>
-                    <li><a href="#about" class="nav-link">About</a></li>
-                    <li><a href="#tech-stack" class="nav-link">Tech Stack</a></li>
-                    <li><a href="#contact" class="nav-link">Contact</a></li>
+                    <li><a class="nav-link" href="#home">Home</a></li>
+                    <li><a class="nav-link" href="#about">About</a></li>
+                    <li><a class="nav-link" href="#tech-stack">Tech Stack</a></li>
+                    <li><a class="nav-link" href="#contact">Contact</a></li>
                 </ul>
-                <div class="ajp-nav-wrapper ajp-social-media-section">
+                <div class="ajp-nav-bar-menu-wrapper">
                     <a href="https://github.com/akhiljozph/" target="_blank" aria-label="GitHub profile">
-                        <img class="ajp-social-media-icon ajp-github-icon" src="./assets/icons/svg/github.svg"
-                            alt="GitHub" />
+                        <img class="ajp-nav-bar-social-media-item ajp-nav-bar-github-icon"
+                            src="./assets/icons/svg/github.svg" alt="GitHub" />
                     </a>
                     <a href="https://www.linkedin.com/in/akhil-joseph-353494157/" target="_blank"
                         aria-label="LinkedIn profile">
-                        <img class="ajp-social-media-icon ajp-linkedin-icon" src="./assets/icons/svg/linkedin.svg"
-                            alt="LinkedIn" />
+                        <img class="ajp-nav-bar-social-media-item ajp-nav-bar-linkedin-icon"
+                            src="./assets/icons/svg/linkedin.svg" alt="LinkedIn" />
                     </a>
                 </div>
             </div>
         </nav>
     </section>
 
-    <section id="home" class="ajp-section ajp-home-section ajp-section-full-height">
-        <div class="ajp-home-description">
-            <p class="ajp-description ajp-description-wish">Hi &#x1F44B;,</p>
-            <h1 class="ajp-description ajp-description-name">
+    <section id="home" class="ajp-section ajp-default-height-section ajp-home-section">
+        <div class="ajp-home-description-wrapper">
+            <label class="ajp-home-description ajp-home-description-wish">
+                Hi,
+            </label>
+            <label class="ajp-home-description ajp-home-description-name">
                 My Name is
                 <span class="ajp-full-name">
                     Akhil Joseph
                 </span>
-            </h1>
-            <p class="ajp-description ajp-description-designation">And, I'm a Full Stack Developer</p>
+            </label>
+            <label class="ajp-home-description ajp-home-description-designation">
+                Full Stack Developer
+            </label>
+            <div class="ajp-home-description ajp-home-typing-wrapper">
+                And, I'm capable of 
+                <span class="ajp-home-typing" aria-live="polite" id="typeTarget">
+                    preparing the experience
+                    <span class="ajp-home-typing-cursor" aria-hidden="true"></span>
+                </span>
+            </div>
         </div>
-        <div class="ajp-home-profile">
+        <div class="ajp-home-profile-section">
             <img src="./assets/images/profile-image.jpg" alt="Profile picture of Akhil Joseph" />
         </div>
     </section>
 
-    <section id="about" class="ajp-section-full-height ajp-about-section">
+    <section id="about" class="ajp-section ajp-default-height-section ajp-about-section">
         <h1>About Me</h1>
         <p>
             Versatile full-stack developer with more than 5 years of experience
@@ -117,8 +130,7 @@
         </section>
     </section>
 
-
-    <section id="tech-stack" class="ajp-tech-stack-section ajp-full-height-section">
+    <section id="tech-stack" class="ajp-section ajp-default-height-section ajp-tech-stack-section">
         <h2>My Tech Stack</h2>
         <article>
             <p>HTML5</p>
@@ -139,7 +151,7 @@
         </article>
     </section>
 
-    <section id="contact" class="ajp-contact-me-section ajp-full-height-section">
+    <section id="contact" class="ajp-section ajp-default-height-section ajp-contact-me-section">
         <p>
             You can reach me at: ajpulluvelil@gmail.com
         </p>

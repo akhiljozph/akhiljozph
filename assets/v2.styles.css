@@ -1,0 +1,279 @@
+:root {
+    --accent-1: #7c3aed;
+    --accent-2: #06b6d4;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 0 3rem;
+    line-height: 1.6;
+    font-style: normal;
+    box-sizing: border-box;
+    font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+
+.ajp-nav-bar-section {
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 9999;
+    position: fixed;
+    padding: 0 3rem;
+    box-sizing: border-box;
+    background-color: #fff;
+}
+
+.ajp-nav-bar {
+    display: flex;
+    padding: 1rem 0;
+    min-height: 3rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ajp-nav-bar-logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-weight: 700;
+    letter-spacing: 0.4px;
+    font-size: 1rem;
+}
+
+.ajp-nav-bar-nick-name {
+    width: 44px;
+    height: 44px;
+    color: #fff;
+    border-radius: 10px;
+    display: inline-grid;
+    place-items: center;
+    background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+    box-shadow: 0 6px 20px rgba(6, 12, 30, 0.6);
+}
+
+.ajp-nav-bar-menu {
+    gap: 2rem;
+    display: inherit;
+    align-items: center;
+}
+
+.ajp-nav-bar-menu>ul {
+    gap: 3rem;
+    display: inherit;
+    list-style: none;
+    align-items: center;
+}
+
+.ajp-nav-bar-menu>ul>li {
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.ajp-nav-bar-menu>ul>li>.nav-link {
+    color: #000;
+    text-decoration: none;
+}
+
+.ajp-nav-bar-menu-wrapper {
+    gap: 1.5rem;
+    display: inherit;
+    align-items: center;
+}
+
+.ajp-nav-bar-menu-wrapper>a {
+    display: flex;
+    align-items: center;
+}
+
+.ajp-nav-bar-github-icon {
+    width: 1.75rem;
+    height: 1.75rem;
+}
+
+.ajp-nav-bar-linkedin-icon {
+    width: 2rem;
+    height: 2rem;
+}
+
+.ajp-default-height-section {
+    padding-top: 5rem;
+    min-height: calc(100vh - 5rem);
+}
+
+.ajp-home-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ajp-home-description-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.ajp-home-description {
+    opacity: 0;
+    font-size: 5rem;
+    font-weight: 700;
+    transform: translateY(20px);
+    animation: fadeInUp 0.8s forwards;
+}
+
+@keyframes fadeInUp {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.ajp-home-description-wish {
+    font-size: 4rem;
+    font-weight: 500;
+}
+
+.ajp-home-description-name>.ajp-full-name {
+    background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+
+.ajp-home-description-designation {
+    font-size: 3rem;
+    font-weight: 500;
+}
+
+.ajp-home-profile-section {
+    padding: 1rem;
+    width: 37.5rem;
+    height: 37.5rem;
+    border-radius: 50%;
+    display: inline-block;
+    animation: float 3s ease-in-out infinite;
+    background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+}
+
+@keyframes float {
+
+    0%,
+    100% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-15px);
+    }
+}
+
+.ajp-home-profile-section>img {
+    display: block;
+    width: 37.5rem;
+    height: 37.5rem;
+    object-fit: cover;
+    border-radius: 50%;
+    background: #fff;
+}
+
+.ajp-home-typing-wrapper {
+    display: flex;
+    gap: 1.125rem;
+    flex-wrap: wrap;
+    font-size: 2rem;
+    margin-top: 2rem;
+    align-items: center;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, 'Roboto Mono', monospace;
+}
+
+.ajp-home-typing {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, 'Roboto Mono', monospace;
+    background: linear-gradient(90deg, #000, rgba(0, 0, 0, 0.8));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    font-size: 2rem;
+    padding: 0.5rem 0;
+    border-radius: 0.5rem;
+    background-color: rgba(255, 255, 255, 0.02);
+    box-shadow: inset 0 -1px 0 rgba(255, 255, 255, 0.02);
+}
+
+.ajp-home-typing-cursor {
+    display: inline-block;
+    width: 0.5rem;
+    height: 2rem;
+    background: linear-gradient(180deg, #000, rgba(0, 0, 0, 0.8));
+    margin-left: 0.5rem;
+    border-radius: 0.25rem;
+    vertical-align: middle;
+    animation: blink 1s steps(2) infinite
+}
+
+@keyframes blink {
+    50% {
+        opacity: 0
+    }
+}
+
+
+@media (max-width: 768px) {
+    .ajp-nav-bar-logo {
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    .ajp-nav-bar-menu {
+        display: none;
+    }
+
+    .ajp-home-section {
+        padding-top: 7.5rem;
+        flex-direction: column-reverse;
+        justify-content: normal;
+    }
+
+    .ajp-home-profile-section {
+        width: 15rem;
+        height: 15rem;
+    }
+
+    .ajp-home-profile-section>img {
+        width: 15rem;
+        height: 15rem;
+    }
+
+    .ajp-home-description-wrapper {
+        align-items: center;
+        margin-top: 1rem;
+    }
+
+    .ajp-home-description-wish {
+        font-size: 1rem;
+    }
+
+    .ajp-home-description-name {
+        font-size: 1.25rem;
+    }
+
+    .ajp-home-description-designation {
+        font-size: 1rem;
+    }
+
+    .ajp-home-typing-wrapper {
+        gap: 0.5rem;
+        font-size: 1rem;
+    }
+    .ajp-home-typing {
+        font-size: 1rem;
+    }
+
+    .ajp-home-typing-wrapper {
+        flex-direction: column;
+    }
+}
