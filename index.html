@@ -9,20 +9,15 @@
     <style>
         :root {
             --bg1: #0f1724;
-            /* dark navy */
             --bg2: #0b1220;
-            /* deeper */
             --accent-1: #7c3aed;
-            /* violet */
             --accent-2: #06b6d4;
-            /* cyan */
             --muted: rgba(255, 255, 255, 0.65);
             --glass: rgba(255, 255, 255, 0.04);
             --radius: 14px;
             --fw-heading: 700;
         }
 
-        /* Reset-ish */
         * {
             box-sizing: border-box
         }
@@ -59,7 +54,6 @@
             backdrop-filter: blur(6px);
         }
 
-        /* Floating decorative blobs */
         .blob {
             position: absolute;
             filter: blur(40px) saturate(120%);
@@ -152,7 +146,6 @@
             flex-wrap: wrap;
         }
 
-        /* Typing effect for the headline */
         .typing {
             font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, 'Roboto Mono', monospace;
             background: linear-gradient(90deg, #fff, rgba(255, 255, 255, 0.8));
@@ -183,7 +176,6 @@
             }
         }
 
-        /* Notify form */
         .notify {
             margin-top: 26px;
             display: flex;
@@ -225,7 +217,6 @@
             font-size: 13px
         }
 
-        /* Simple animated dots */
         .dots {
             display: inline-flex;
             gap: 8px;
@@ -270,7 +261,6 @@
             }
         }
 
-        /* Footer small */
         .footer {
             display: flex;
             justify-content: space-between;
@@ -284,7 +274,6 @@
             color: var(--muted)
         }
 
-        /* Responsive */
         @media (max-width:640px) {
             .card {
                 padding: 28px
@@ -347,7 +336,6 @@
     </main>
 
     <script>
-        // small utilities: typing animation & simple simulated subscribe
         const typeTarget = document.getElementById('typeTarget');
         const phrases = [
             'Preparing the experience',
@@ -382,14 +370,12 @@
             setTimeout(tick, deleting ? 40 : 70);
         }
 
-        // ensure initial text node exists inside .typing
         if (typeTarget.childNodes.length === 0) {
             typeTarget.appendChild(document.createTextNode(''));
         }
-        // start typing after a short delay
+
         setTimeout(tick, 600);
 
-        // small subscribe simulation (replace with your endpoint)
         function subscribe() {
             const email = document.getElementById('email');
             if (!email.checkValidity()) {
@@ -397,12 +383,11 @@
                 return;
             }
             const old = email.value;
-            // instant feedback — replace with real XHR/fetch
+
             email.value = '';
             alert(old + ' — thanks! We will notify you when we launch.');
         }
 
-        // fill year
         document.getElementById('year').textContent = new Date().getFullYear();
     </script>
 </body>
