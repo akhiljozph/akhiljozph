@@ -254,7 +254,7 @@ body {
 }
 
 .ajp-about-section-sub-title {
-    background: linear-gradient(135deg, var(--accent-2),  var(--accent-1));
+    background: linear-gradient(135deg, var(--accent-2), var(--accent-1));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -347,5 +347,36 @@ body {
 
     .ajp-home-typing-wrapper {
         flex-direction: column;
+    }
+
+    .ajp-about-section-title {
+        font-size: 3rem;
+    }
+
+    .ajp-about-section-description {
+        width: 100%;
+        font-size: 1rem;
+    }
+
+    .ajp-about-section-work-experience {
+        width: 100%;
+        font-size: 1rem;
+    }
+
+    .ajp-about-section-education {
+        width: 100%;
+        font-size: 1rem;
+    }
+
+    .ajp-about-section-sub-title {
+        font-size: 2rem;
+    }
+
+    .ajp-work-experience-location-timeline {
+        flex-direction: column;
+    }
+
+    .ajp-work-experience-wrapper {
+        font-size: 1rem;
     }
 }
