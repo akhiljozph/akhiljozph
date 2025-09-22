@@ -221,6 +221,74 @@ body {
     }
 }
 
+.ajp-about-section {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.ajp-about-section-title {
+    background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+    font-size: 4rem;
+}
+
+.ajp-about-section-description {
+    width: 75%;
+    margin: 0.5rem 0;
+    text-align: justify;
+    font-size: 2rem;
+}
+
+.ajp-about-section-work-experience {
+    width: 75%;
+    margin: 0.5rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ajp-about-section-sub-title {
+    background: linear-gradient(135deg, var(--accent-2),  var(--accent-1));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+    font-size: 3rem;
+}
+
+.ajp-work-experience-wrapper {
+    background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+    width: 100%;
+    gap: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    border-radius: 1rem;
+    padding: 2rem;
+    margin-top: 1rem;
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+.ajp-work-experience-location-timeline {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ajp-about-section-education {
+    width: 75%;
+    margin: 0.5rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 
 @media (max-width: 768px) {
     .ajp-nav-bar-logo {
