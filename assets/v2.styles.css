@@ -289,6 +289,56 @@ body {
     align-items: center;
 }
 
+.ajp-tech-stack-title {
+    background: linear-gradient(150deg, var(--accent-1), var(--accent-2));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+    font-size: 4rem;
+}
+
+.ajp-tech-stack-wrapper {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: space-between;
+}
+
+.ajp-tech-stack-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10rem;
+    height: 10rem;
+    background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
+    border-radius: 1rem;
+    padding: 0.25rem;
+}
+
+.ajp-tech-stack-place-occupier {
+    width: 10rem;
+    height: 10rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 0.75rem;
+}
+
+.ajp-tech-stack-place-occupier>img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 9rem;
+    height: 9rem;
+    object-fit: contain;
+    background-color: #fff;
+    border-radius: 0.75rem;
+}
+
+
 
 @media (max-width: 768px) {
     .ajp-nav-bar-logo {
