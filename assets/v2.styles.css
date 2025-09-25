@@ -338,8 +338,6 @@ body {
     border-radius: 0.75rem;
 }
 
-
-
 @media (max-width: 768px) {
     .ajp-nav-bar-logo {
         width: 100%;
