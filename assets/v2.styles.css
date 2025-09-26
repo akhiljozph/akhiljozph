@@ -296,6 +296,7 @@ body {
     background-clip: text;
     color: transparent;
     font-size: 4rem;
+    margin-bottom: 1rem;
 }
 
 .ajp-tech-stack-wrapper {
@@ -426,5 +427,24 @@ body {
 
     .ajp-work-experience-wrapper {
         font-size: 1rem;
+    }
+
+    .ajp-tech-stack-item {
+        width: 7rem;
+        height: 7rem;
+    }
+
+    .ajp-tech-stack-place-occupier {
+        width: 7rem;
+        height: 7rem;
+    }
+
+    .ajp-tech-stack-place-occupier>img {
+        width: 5rem;
+        height: 5rem;
+    }
+
+    .ajp-tech-stack-title {
+        font-size: 2rem;
     }
 }
