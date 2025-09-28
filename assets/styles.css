@@ -339,6 +339,27 @@ body {
     border-radius: 0.75rem;
 }
 
+.ajp-contact-me-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.ajp-contact-me-section>span {
+    text-align: center;
+}
+
+.ajp-contact-me-id {
+    background: linear-gradient(150deg, var(--accent-1), var(--accent-2));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+
 @media (max-width: 768px) {
     .ajp-nav-bar-logo {
         width: 100%;
@@ -446,5 +467,11 @@ body {
 
     .ajp-tech-stack-title {
         font-size: 2rem;
+    }
+
+    .ajp-contact-me-section>span {
+        font-size: 2rem;
+        display: flex;
+        flex-direction: column;
     }
 }
