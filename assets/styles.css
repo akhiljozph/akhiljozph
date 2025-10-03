@@ -300,9 +300,10 @@ body {
 }
 
 .ajp-tech-stack-wrapper {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
+    display: flex;
+    flex-direction: row;
     gap: 1rem;
+    flex-wrap: wrap;
 }
 
 .ajp-tech-stack-item {
