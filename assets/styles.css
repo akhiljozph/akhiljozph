@@ -339,6 +339,13 @@ body {
     border-radius: 0.75rem;
 }
 
+.ajp-tech-stack-item-label {
+    width: 100%;
+    display: block;
+    text-align: center;
+    font-weight: 500;
+}
+
 .ajp-contact-me-section {
     display: flex;
     align-items: center;
