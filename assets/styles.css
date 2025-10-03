@@ -301,9 +301,10 @@ body {
 
 .ajp-tech-stack-wrapper {
     display: flex;
-    flex-direction: row;
-    gap: 1rem;
+    align-items: center;
     flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: space-between;
 }
 
 .ajp-tech-stack-item {
