@@ -300,11 +300,9 @@ body {
 }
 
 .ajp-tech-stack-wrapper {
-    display: flex;
-    align-items: center;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
     gap: 1rem;
-    justify-content: space-between;
 }
 
 .ajp-tech-stack-item {
@@ -316,6 +314,7 @@ body {
     background: linear-gradient(135deg, var(--accent-1), var(--accent-2));
     border-radius: 1rem;
     padding: 0.25rem;
+    box-shadow: 0 6px 20px rgba(6, 12, 30, 0.6);
 }
 
 .ajp-tech-stack-place-occupier {
@@ -340,10 +339,11 @@ body {
 }
 
 .ajp-tech-stack-item-label {
-    width: 100%;
+    width: 10rem;
     display: block;
     text-align: center;
     font-weight: 500;
+    margin-top: 1rem;
 }
 
 .ajp-contact-me-section {
@@ -465,6 +465,10 @@ body {
     .ajp-tech-stack-place-occupier {
         width: 7rem;
         height: 7rem;
+    }
+
+    .ajp-tech-stack-item-label {
+        width: 7rem;
     }
 
     .ajp-tech-stack-place-occupier>img {
