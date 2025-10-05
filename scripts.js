@@ -29,7 +29,7 @@ const techStack = [{
     imageURL: "./assets/icons/png/mongodb.png"
 }, {
     techName: "MySQL",
-    imageURL: "./assets/icons/png/expressjs.png"
+    imageURL: "./assets/icons/png/mysql.png"
 }, {
     techName: "PostgreSQL",
     imageURL: "./assets/icons/png/postgresql.png"
