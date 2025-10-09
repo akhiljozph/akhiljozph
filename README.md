@@ -14,6 +14,7 @@ Versatile full-stack developer with more than 4.5 years of experience specializi
 - React.js
 - Redux
 - Zustand
+- NGXS
 - Storybook.js
 
 ### Backend
