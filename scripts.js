@@ -93,6 +93,9 @@ const techStack = [{
 }, {
     techName: "GCP",
     imageURL: "./assets/icons/png/gcp.png"
+}, {
+    techName: "Docker",
+    imageURL: "./assets/icons/svg/docker.svg"
 }];
 
 let pIndex = 0;
