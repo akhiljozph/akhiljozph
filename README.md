@@ -28,3 +28,7 @@ Versatile full-stack developer with more than 4.5 years of experience specializi
 - MongoDB
 - PostgreSQL
 - MySQL
+
+### Cloud
+
+- Google Cloud Platform
