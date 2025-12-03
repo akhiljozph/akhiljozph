@@ -23,7 +23,9 @@ Versatile full-stack developer with more than 4.5 years of experience specializi
 
 - Express.js
 - Koa.js
+- Nest.js
 - Sequelize
+- Prisma
 
 ### Database
 
