@@ -24,6 +24,8 @@ Versatile full-stack developer with more than 5 years of experience specializing
 - Express.js
 - Koa.js
 - Nest.js
+- Fastify
+- Hapi.js
 - Sequelize
 - Prisma
 
@@ -32,6 +34,8 @@ Versatile full-stack developer with more than 5 years of experience specializing
 - MongoDB
 - PostgreSQL
 - MySQL
+- SQLite
+- MariaDB
 
 ### Cloud
 
