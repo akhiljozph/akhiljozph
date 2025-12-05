@@ -14,6 +14,8 @@ Versatile full-stack developer with more than 5 years of experience specializing
 
 - Angular
 - React.js
+- Vue.js
+- Svelte
 - Redux
 - Zustand
 - NGXS
