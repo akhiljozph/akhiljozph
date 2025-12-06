@@ -30,7 +30,7 @@ Versatile full-stack developer with more than 5 years of experience specializing
 - Hapi.js
 - Sequelize
 - Prisma
-
+- TypeORM
 ### Database
 
 - MongoDB
