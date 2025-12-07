@@ -1,8 +1,3 @@
----
-title: "Akhil Joseph"
-description: "Senior Software Engineer | Google Certified Professional Cloud Developer"
----
-
 <div align="center">
 
 # 👋 Hi there, I'm [Akhil Joseph](https://akhiljozph.github.io/akhiljozph/)
