@@ -1,45 +1,96 @@
-## Hi there 👋 I'm [Akhil Joseph](https://akhiljozph.github.io/akhiljozph/)
+---
+title: "Akhil Joseph"
+description: "Senior Software Engineer | Google Certified Professional Cloud Developer"
+---
 
-### Google Certified Professional Cloud Developer 
+<div align="center">
 
-Senior Software Engineer at [Trenser Technology Solutions Pvt. Ltd.](https://trenser.com).
+# 👋 Hi there, I'm [Akhil Joseph](https://akhiljozph.github.io/akhiljozph/)
 
-### About me
+**Google Certified Professional Cloud Developer**  
+Senior Software Engineer at [Trenser Technology Solutions Pvt. Ltd.](https://trenser.com)
 
-Versatile full-stack developer with more than 5 years of experience specializing in front-end development and proficient in MERN and MEAN stack technologies. Strong foundation in HTML, CSS, and JavaScript, coupled with hands-on experience building RESTful APIs, managing databases (MongoDB, PostgreSQL, MySQL), and deploying applications using Node.js and Express.js. Passionate about creating seamless and efficient web solutions from concept to deployment.
+</div>
 
-# Expertise on
+---
 
-### Front End
+## 🚀 About Me
 
-- Angular
-- React.js
-- Vue.js
-- Svelte
-- Redux
-- Zustand
-- NGXS
-- Storybook.js
+Versatile **Full-Stack Developer** with **5+ years of hands-on experience**, specializing in **front-end development** and proficient across **MERN** and **MEAN** technologies. I have a strong foundation in:
 
-### Backend
+- ✅ **Modern UI frameworks & state management**
+- ✅ **Scalable backend architectures & RESTful APIs**
+- ✅ **Relational & NoSQL databases**
+- ✅ **Cloud-native deployments using Google Cloud Platform**
 
-- Express.js
-- Koa.js
-- Nest.js
-- Fastify
-- Hapi.js
-- Sequelize
-- Prisma
-- TypeORM
-### Database
+I’m passionate about crafting **high-performance, scalable, and elegant web applications** — from idea to production.
 
-- MongoDB
-- PostgreSQL
-- MySQL
-- SQLite
-- MariaDB
+---
 
-### Cloud
+## 🧠 Technical Expertise
 
-- Google Cloud Platform
+### 🎨 Frontend Technologies
 
+| Frameworks | State Management | UI & Tooling |
+|------------|------------------|---------------|
+| Angular | Redux | Storybook.js |
+| React.js | Zustand | Component-driven UI |
+| Vue.js | NGXS | Design Systems |
+| Svelte | — | Performance-focused UI |
+
+---
+
+### ⚙️ Backend Technologies
+
+- **Frameworks**: Express.js, Koa.js, Nest.js, Fastify, Hapi.js
+- **ORM / ODM**: Sequelize, Prisma, TypeORM
+- **Architecture**: MVC, Modular Monolith, Microservices
+- **APIs**: REST, JWT Authentication, Middleware-based systems
+
+---
+
+### 🗄️ Databases
+
+| NoSQL | SQL |
+|-------|-----|
+| MongoDB | PostgreSQL |
+| — | MySQL |
+| — | SQLite |
+| — | MariaDB |
+
+---
+
+### ☁️ Cloud & DevOps
+
+- **Google Cloud Platform (GCP)**
+  - Compute Engine
+  - Cloud Run
+  - Cloud Functions
+  - Firebase
+  - PubSub
+- **Docker & Containerization**
+- **CI/CD with GitHub Actions**
+- **Infrastructure-ready for Kubernetes**
+
+---
+
+## 🏆 Certifications
+
+- ✅ **Google Certified Professional Cloud Developer**
+
+---
+
+## 💼 Current Role
+
+**Senior Software Engineer**  
+📍 Trenser Technology Solutions Pvt. Ltd.  
+🌐 https://trenser.com
+
+---
+
+## 📫 Let's Connect
+
+- 🌍 Portfolio: [akhiljozph.github.io/akhiljozph](https://akhiljozph.github.io/akhiljozph/)
+- 💼 LinkedIn: [linked.com/in/akhiljoseph](https://www.linkedin.com/in/akhil-joseph-353494157/)
+
+---
