@@ -63,6 +63,7 @@ I’m passionate about crafting **high-performance, scalable, and elegant web ap
   - Cloud Functions
   - Firebase
   - PubSub
+  - Healthcare
 - **Docker & Containerization**
 - **CI/CD with GitHub Actions**
 - **Infrastructure-ready for Kubernetes**
