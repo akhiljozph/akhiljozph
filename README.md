@@ -85,7 +85,4 @@ I’m passionate about crafting **high-performance, scalable, and elegant web ap
 
 ## 📫 Let's Connect
 
-- 🌍 Portfolio: [akhiljozph.github.io/akhiljozph](https://akhiljozph.github.io/akhiljozph/)
-- 💼 LinkedIn: [linked.com/in/akhiljoseph](https://www.linkedin.com/in/akhil-joseph-353494157/)
-
 ---
