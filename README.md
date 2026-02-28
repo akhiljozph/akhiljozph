@@ -77,12 +77,3 @@ I’m passionate about crafting **high-performance, scalable, and elegant web ap
 
 ---
 
-## 💼 Current Role
-
-**Senior Software Engineer** 
-
----
-
-## 📫 Let's Connect
-
----
