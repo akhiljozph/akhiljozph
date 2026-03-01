@@ -61,7 +61,6 @@ I’m passionate about crafting **high-performance, scalable, and elegant web ap
   - Compute Engine
   - Cloud Run
   - Cloud Functions
-  - Firebase
   - PubSub
   - Healthcare
   - AlloyDB
