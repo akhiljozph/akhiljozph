@@ -52,26 +52,5 @@ I’m passionate about crafting **high-performance, scalable, and elegant web ap
 | — | MySQL |
 | — | SQLite |
 | — | MariaDB |
-
----
-
-### ☁️ Cloud & DevOps
-
-- **Google Cloud Platform (GCP)**
-  - Compute Engine
-  - Cloud Run
-  - Cloud Functions
-  - PubSub
-  - Healthcare
-  - AlloyDB
-- **Docker & Containerization**
-- **CI/CD with GitHub Actions**
-
----
-
-## 🏆 Certifications
-
-- ✅ **Google Certified Professional Cloud Developer**
-
 ---
 
