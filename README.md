@@ -44,13 +44,3 @@ I’m passionate about crafting **high-performance, scalable, and elegant web ap
 
 ---
 
-### 🗄️ Databases
-
-| NoSQL | SQL |
-|-------|-----|
-| MongoDB | PostgreSQL |
-| — | MySQL |
-| — | SQLite |
-| — | MariaDB |
----
-
