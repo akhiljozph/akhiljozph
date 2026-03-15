@@ -35,12 +35,4 @@ I’m passionate about crafting **high-performance, scalable, and elegant web ap
 
 ---
 
-### ⚙️ Backend Technologies
-
-- **Frameworks**: Express.js, Koa.js, Nest.js, Fastify, Hapi.js
-- **ORM / ODM**: Sequelize, Prisma, TypeORM
-- **Architecture**: MVC, Modular Monolith, Microservices
-- **APIs**: REST, JWT Authentication, Middleware-based systems
-
----
 
