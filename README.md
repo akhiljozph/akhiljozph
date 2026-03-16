@@ -20,19 +20,5 @@ Versatile **Full-Stack Developer** with **5+ years of hands-on experience**, spe
 
 I’m passionate about crafting **high-performance, scalable, and elegant web applications** — from idea to production.
 
----
-
-## 🧠 Technical Expertise
-
-### 🎨 Frontend Technologies
-
-| Frameworks | State Management | UI & Tooling |
-|------------|------------------|---------------|
-| Angular | Redux | Storybook.js |
-| React.js | Zustand | Component-driven UI |
-| Vue.js | NGXS | Design Systems |
-| Svelte | — | Performance-focused UI |
-
----
-
+--
 
