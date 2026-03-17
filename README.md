@@ -18,7 +18,4 @@ Versatile **Full-Stack Developer** with **5+ years of hands-on experience**, spe
 - ✅ **Relational & NoSQL databases**
 - ✅ **Cloud-native deployments using Google Cloud Platform**
 
-I’m passionate about crafting **high-performance, scalable, and elegant web applications** — from idea to production.
-
---
 
