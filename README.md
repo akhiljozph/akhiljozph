@@ -13,9 +13,4 @@ Senior Software Engineer at [Trenser Technology Solutions Pvt. Ltd.](https://tre
 
 Versatile **Full-Stack Developer** with **5+ years of hands-on experience**, specializing in **front-end development** and proficient across **MERN** and **MEAN** technologies. I have a strong foundation in:
 
-- ✅ **Modern UI frameworks & state management**
-- ✅ **Scalable backend architectures & RESTful APIs**
-- ✅ **Relational & NoSQL databases**
-- ✅ **Cloud-native deployments using Google Cloud Platform**
-
 
