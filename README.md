@@ -9,8 +9,3 @@ Senior Software Engineer at [Trenser Technology Solutions Pvt. Ltd.](https://tre
 
 ---
 
-## 🚀 About Me
-
-Versatile **Full-Stack Developer** with **5+ years of hands-on experience**, specializing in **front-end development** and proficient across **MERN** and **MEAN** technologies. I have a strong foundation in:
-
-
