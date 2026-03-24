@@ -1,2 +1,0 @@
-Akhil Joseph
-SSE
