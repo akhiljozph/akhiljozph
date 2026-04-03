@@ -1,4 +1,4 @@
-## Akhil Joseph
+# Akhil Joseph
 
 I'm a Senior Software Engineer with 5 years of experience building full-stack web applications that scale — from healthcare platforms to blockchain-powered products, logistics systems, and beyond.
 My core strength lies in bridging the gap between robust backend architecture and seamless frontend experiences. I work across the stack with Angular, React, Node.js (Express, Koa, Nest), and cloud infrastructure on GCP — designing RESTful APIs and microservices that are built to last, not just to ship.
