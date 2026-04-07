@@ -1,8 +1,6 @@
 # Akhil Joseph
 
-## Senior software engineer 
-
-### Google certified cloud developer
+## Google certified cloud developer
 
 I'm a Senior Software Engineer with 5 years of experience building full-stack web applications that scale — from healthcare platforms to blockchain-powered products, logistics systems, and beyond.
 
