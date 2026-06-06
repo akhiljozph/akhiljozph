@@ -53,11 +53,11 @@ Welcome to my portfolio! I am a seasoned engineer specializing in building robus
     <p>Certified developer utilizing GCP to build secure, highly available enterprise systems.</p>
     
     #### Core Services
-    - **Healtcare**
-    - **EventArc**
-    - **Cloud Tasks**
-    - **Cloud Runs**
-    - **Cloud Run Functions**
+    - **Healthcare** (Managed Healthcare Data - DICOM & HL7)
+    - **EventArc** (Asynchronous Event Routing)
+    - **Cloud Tasks** (Asynchronous Task Execution & Queues)
+    - **Cloud Runs** (Serverless Container Platform)
+    - **Cloud Run Functions** (Serverless Microservices & Event-Driven Code)
     - **Pub/Sub** (Asynchronous Messaging)
     - **CloudSQL** & **AlloyDB** (Managed Databases)
     
