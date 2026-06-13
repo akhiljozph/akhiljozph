@@ -16,6 +16,7 @@ Welcome to my portfolio! I am a seasoned engineer specializing in building robus
     #### Frameworks
     - **Angular** ⭐️⭐️⭐️⭐️⭐️
     - **React.js** ⭐️⭐️⭐️⭐️⭐️
+    - **Next.js** 
     
     #### State & Reactivity
     - `RxJS` ⭐️⭐️⭐️ • `NgRX` ⭐️⭐️⭐️ • `NgXS` ⭐️⭐️⭐️
