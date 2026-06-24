@@ -19,8 +19,11 @@ Welcome to my portfolio! I am a seasoned engineer specializing in building robus
     - **Next.js** 
     
     #### State & Reactivity
-    - `RxJS` ⭐️⭐️⭐️ • `NgRX` ⭐️⭐️⭐️ • `NgXS` ⭐️⭐️⭐️
-    - `Redux` • `Zustand`
+    - `RxJS` ⭐️⭐️⭐️⭐️ 
+    - `NgRX` ⭐️⭐️
+    - `NgXS` ⭐️⭐️⭐️
+    - `Redux` ⭐️⭐️⭐️
+    - `Zustand`
   </div>
 
   <div style={{ padding: '1.5rem', borderRadius: '8px', border: '1px solid #eaeaea', boxShadow: '0 2px 4px rgba(0,0,0,0.02)' }}>
@@ -41,12 +44,16 @@ Welcome to my portfolio! I am a seasoned engineer specializing in building robus
     <p>Data modeling, query optimization, and abstracting data layers seamlessly.</p>
     
     #### Relational (SQL)
-    - **PostgreSQL** ⭐️⭐️⭐️ • **MySQL** ⭐️⭐️⭐️
-    - *ORMs:* `Sequelize` ⭐️⭐️⭐️ • `Prisma` ⭐️⭐️
+    - **PostgreSQL** ⭐️⭐️⭐️
+    - **MySQL** ⭐️⭐️⭐️
+    - *ORMs:*
+      - `Sequelize` ⭐️⭐️⭐️ 
+      - `Prisma` ⭐️⭐️
     
     #### Non-Relational (NoSQL)
     - **MongoDB** ⭐️⭐️⭐️
-    - *ODM:* `Mongoose` ⭐️⭐️⭐️⭐️
+    - *ODM:* 
+      - `Mongoose` ⭐️⭐️⭐️⭐️
   </div>
 
   <div style={{ padding: '1.5rem', borderRadius: '8px', border: '1px solid #eaeaea', boxShadow: '0 2px 4px rgba(0,0,0,0.02)' }}>
