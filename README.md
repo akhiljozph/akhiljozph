@@ -16,7 +16,7 @@ Welcome to my portfolio! I am a seasoned engineer specializing in building robus
     #### Frameworks
     - **Angular** ⭐️⭐️⭐️⭐️⭐️
     - **React.js** ⭐️⭐️⭐️⭐️⭐️
-    - **Next.js** 
+    - **Next.js** ⭐️
     
     #### State & Reactivity
     - `RxJS` ⭐️⭐️⭐️⭐️ 
@@ -39,6 +39,15 @@ Welcome to my portfolio! I am a seasoned engineer specializing in building robus
   </div>
 
   <div style={{ padding: '1.5rem', borderRadius: '8px', border: '1px solid #eaeaea', boxShadow: '0 2px 4px rgba(0,0,0,0.02)' }}>
+    <h3>Monorepos & Build Tools</h3>
+    <p>Architecting unified codebases, optimizing CI/CD caching pipelines, and managing complex workspaces.</p>
+    
+    #### Build Systems & Tooling
+    - **Nx** ⭐️
+    - **Turborepo** ⭐️⭐️⭐️
+  </div>
+
+  <div style={{ padding: '1.5rem', borderRadius: '8px', border: '1px solid #eaeaea', boxShadow: '0 2px 4px rgba(0,0,0,0.02)' }}>
     <h3>Databases & ORMs</h3>
     <p>Data modeling, query optimization, and abstracting data layers seamlessly.</p>
     
@@ -47,10 +56,10 @@ Welcome to my portfolio! I am a seasoned engineer specializing in building robus
     - **MySQL** ⭐️⭐️⭐️
     - *ORMs:*
       - `Sequelize` ⭐️⭐️⭐️ 
-      - `Prisma` ⭐️⭐️
+      - `Prisma` ⭐️
     
     #### Non-Relational (NoSQL)
-    - **MongoDB** ⭐️⭐️⭐️
+    - **MongoDB** ⭐️⭐️⭐️⭐️
     - *ODM:* 
       - `Mongoose` ⭐️⭐️⭐️⭐️
   </div>
