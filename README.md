@@ -20,7 +20,7 @@ Welcome to my portfolio! I am a seasoned engineer specializing in building robus
     
     #### State & Reactivity
     - `RxJS` ⭐️⭐️⭐️⭐️ 
-    - `NgRX` ⭐️⭐️
+    - `NgRX` ⭐️
     - `NgXS` ⭐️⭐️⭐️
     - `Redux` ⭐️⭐️⭐️
   </div>
@@ -73,7 +73,3 @@ Welcome to my portfolio! I am a seasoned engineer specializing in building robus
   </div>
 
 </div>
-
----
-
->**Let's Connect:** I'm always open to discussing cloud architecture, enterprise frontend state management, or healthcare tech innovations. Drop a star if you find my repositories helpful!
