@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akhiljozph.github.io/akhiljozph/sitemap.xml
