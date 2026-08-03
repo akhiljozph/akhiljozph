@@ -23,6 +23,11 @@ Welcome to my portfolio! I am a seasoned engineer specializing in building robus
     - `NgRX` ⭐️
     - `NgXS` ⭐️⭐️⭐️
     - `Redux` ⭐️⭐️⭐️
+
+    #### Forms & State Management
+    - `Angular Reactive Forms` ⭐️⭐️⭐️⭐️ 
+    - `Angular Signal Forms` ⭐️⭐️
+    - `React Hook Forms` ⭐️⭐️⭐️⭐️
   </div>
 
   <div style={{ padding: '1.5rem', borderRadius: '8px', border: '1px solid #eaeaea', boxShadow: '0 2px 4px rgba(0,0,0,0.02)' }}>
