@@ -24,6 +24,10 @@ Welcome to my portfolio! I am a seasoned engineer specializing in building robus
     - `NgXS` ⭐️⭐️⭐️
     - `Redux` ⭐️⭐️⭐️
 
+    #### Data Fetching & API Client
+    - `RTK Query` ⭐️⭐️⭐️
+    - `Axios` ⭐️⭐️⭐️⭐️
+
     #### Forms & State Management
     - `Angular Reactive Forms` ⭐️⭐️⭐️⭐️ 
     - `Angular Signal Forms` ⭐️⭐️
