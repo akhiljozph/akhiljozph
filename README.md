@@ -18,7 +18,11 @@ Welcome to my portfolio! I am a seasoned engineer specializing in building robus
     - **React.js** ⭐️⭐️⭐️⭐️⭐️
     - **Next.js** ⭐️
 
-    #### UI Components & Design Systems
+    #### UI & Styling
+    - **Tailwind CSS** ⭐️⭐️⭐️⭐️
+    - **SCSS / Sass** ⭐️⭐️⭐️⭐️⭐️
+    - **CSS Modules** ⭐️⭐️⭐️⭐️
+    - **Styled Components** ⭐️⭐️⭐️⭐️
     - **Angular Material** ⭐️⭐️⭐️⭐️⭐️
     - **MUI (Material UI)** ⭐️⭐️⭐️⭐️
     
