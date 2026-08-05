@@ -14,37 +14,37 @@ Welcome to my portfolio! I am a seasoned engineer specializing in building robus
     <p>Expertise in building complex, reactive single-page applications with robust state management.</p>
     
     #### Frameworks
-    - **Angular** ⭐️⭐️⭐️⭐️⭐️
-    - **React.js** ⭐️⭐️⭐️⭐️⭐️
-    - **Next.js** ⭐️
+    - Angular ⭐️⭐️⭐️⭐️⭐️
+    - React.js ⭐️⭐️⭐️⭐️⭐️
+    - Next.js ⭐️
 
     #### UI, Styling & Component Systems
-    - **Tailwind CSS** ⭐️⭐️⭐️⭐️
-    - **SCSS / Sass** ⭐️⭐️⭐️⭐️⭐️
-    - **CSS Modules** ⭐️⭐️⭐️⭐️
-    - **Styled Components** ⭐️⭐️⭐️⭐️
-    - **Angular Material** ⭐️⭐️⭐️⭐️⭐️
-    - **MUI (Material UI)** ⭐️⭐️⭐️⭐️
-    - **Storybook** ⭐️⭐️⭐️⭐️
+    - Tailwind CSS ⭐️⭐️⭐️⭐️
+    - SCSS / Sass ⭐️⭐️⭐️⭐️⭐️
+    - CSS Modules ⭐️⭐️⭐️⭐️
+    - Styled Components ⭐️⭐️⭐️⭐️
+    - Angular Material ⭐️⭐️⭐️⭐️⭐️
+    - MUI (Material UI) ⭐️⭐️⭐️⭐️
+    - Storybook ⭐️⭐️⭐️⭐️
 
     #### Forms & State Management
-    - `Angular Reactive Forms` ⭐️⭐️⭐️⭐️ 
-    - `Angular Signal Forms` ⭐️⭐️
-    - `React Hook Forms` ⭐️⭐️⭐️⭐️
+    - Angular Reactive Forms ⭐️⭐️⭐️⭐️ 
+    - Angular Signal Forms ⭐️⭐️
+    - React Hook Forms ⭐️⭐️⭐️⭐️
     
     #### State & Reactivity
-    - `RxJS` ⭐️⭐️⭐️⭐️ 
-    - `NgRX` ⭐️
-    - `NgXS` ⭐️⭐️⭐️
-    - `Redux` ⭐️⭐️⭐️
+    - RxJS ⭐️⭐️⭐️⭐️ 
+    - NgRX ⭐️
+    - NgXS ⭐️⭐️⭐️
+    - Redux ⭐️⭐️⭐️
 
     #### Data Fetching & API Client
-    - `RTK Query` ⭐️⭐️⭐️
-    - `Axios` ⭐️⭐️⭐️⭐️
+    - RTK Query ⭐️⭐️⭐️
+    - Axios ⭐️⭐️⭐️⭐️
     
     #### Testing & Quality
-  - **Jest** ⭐️⭐️⭐️⭐️
-  - **Vitest** ⭐️⭐️⭐️⭐️
+    - Jest -> ⭐️⭐️⭐️⭐️
+    - Vitest -> ⭐️⭐️⭐️⭐️
   </div>
 
   <div style={{ padding: '1.5rem', borderRadius: '8px', border: '1px solid #eaeaea', boxShadow: '0 2px 4px rgba(0,0,0,0.02)' }}>
@@ -52,12 +52,12 @@ Welcome to my portfolio! I am a seasoned engineer specializing in building robus
     <p>Designing scalable, event-driven RESTful APIs and microservices using the Node ecosystem.</p>
     
     #### Runtime
-    - **Node.js** ⭐️⭐️⭐️⭐️
+    - Node.js ⭐️⭐️⭐️⭐️
     
     #### Frameworks
-    - **Express.js** ⭐️⭐️⭐️⭐️
-    - **Koa.js** ⭐️⭐️⭐️⭐️
-    - **Nest.js** ⭐️⭐️
+    - Express.js ⭐️⭐️⭐️⭐️
+    - Koa.js ⭐️⭐️⭐️⭐️
+    - Nest.js ⭐️⭐️
   </div>
 
   <div style={{ padding: '1.5rem', borderRadius: '8px', border: '1px solid #eaeaea', boxShadow: '0 2px 4px rgba(0,0,0,0.02)' }}>
@@ -65,12 +65,12 @@ Welcome to my portfolio! I am a seasoned engineer specializing in building robus
     <p>Architecting unified codebases, optimizing CI/CD caching pipelines, and managing complex workspaces.</p>
     
     #### Build Systems & Tooling
-    - **Nx** ⭐️
-    - **Turborepo** ⭐️⭐️⭐️
+    - Nx ⭐️
+    - Turborepo ⭐️⭐️⭐️
 
     #### AI IDEs & Agentic Workflows
-    - **Cursor**
-    - **Google Antigravity**
+    - Cursor
+    - Google Antigravity
   </div>
 
   <div style={{ padding: '1.5rem', borderRadius: '8px', border: '1px solid #eaeaea', boxShadow: '0 2px 4px rgba(0,0,0,0.02)' }}>
@@ -78,17 +78,17 @@ Welcome to my portfolio! I am a seasoned engineer specializing in building robus
     <p>Data modeling, query optimization, and abstracting data layers seamlessly.</p>
     
     #### Relational (SQL)
-    - **PostgreSQL** ⭐️⭐️⭐️
-    - **MySQL** ⭐️⭐️⭐️
-    - *ORMs:*
-      - `Sequelize` ⭐️⭐️⭐️ 
-      - `Prisma` ⭐️
+    - PostgreSQL ⭐️⭐️⭐️
+    - MySQL ⭐️⭐️⭐️
+    - ORMs:
+      - Sequelize ⭐️⭐️⭐️ 
+      - Prisma ⭐️
     
     #### Non-Relational (NoSQL)
-    - **MongoDB** ⭐️⭐️⭐️⭐️
-    - **Redis** ⭐️
-    - *ODM:* 
-      - `Mongoose` ⭐️⭐️⭐️⭐️
+    - MongoDB ⭐️⭐️⭐️⭐️
+    - Redis ⭐️
+    - ODM:
+      - Mongoose ⭐️⭐️⭐️⭐️
   </div>
 
   <div style={{ padding: '1.5rem', borderRadius: '8px', border: '1px solid #eaeaea', boxShadow: '0 2px 4px rgba(0,0,0,0.02)' }}>
@@ -96,16 +96,16 @@ Welcome to my portfolio! I am a seasoned engineer specializing in building robus
     <p>Certified developer utilizing GCP to build secure, highly available enterprise systems.</p>
     
     #### Core Services
-    - **Cloud Run Functions** (Serverless Microservices & Event-Driven Code)
-    - **Cloud Runs** (Serverless Container Platform)
-    - **Cloud Storage** (Scalable Object Storage for Unstructured Data)
-    - **Cloud Tasks** (Asynchronous Task Execution & Queues)
-    - **CloudSQL** & **AlloyDB** (Managed Databases)
-    - **EventArc** (Asynchronous Event Routing)
-    - **Pub/Sub** (Asynchronous Messaging)
+    - Cloud Run Functions (Serverless Microservices & Event-Driven Code)
+    - Cloud Runs (Serverless Container Platform)
+    - Cloud Storage (Scalable Object Storage for Unstructured Data)
+    - Cloud Tasks (Asynchronous Task Execution & Queues)
+    - CloudSQL & AlloyDB (Managed Databases)
+    - EventArc (Asynchronous Event Routing)
+    - Pub/Sub (Asynchronous Messaging)
     
     #### Domain Expertise
-    - **GCP Healthcare API** (HL7v2, FHIR, DICOM integration)
+    - GCP Healthcare API (HL7v2, FHIR, DICOM integration)
   </div>
 
 </div>
