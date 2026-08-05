@@ -1,111 +1,217 @@
 # [Akhil Joseph](https://akhiljozph.github.io/akhiljozph/)
-### Senior Software Engineer & Google Certified Professional Cloud Developer
 
-Welcome to my portfolio! I am a seasoned engineer specializing in building robust frontend experiences, scalable Node.js microservices, and cloud-native architectures on Google Cloud Platform.
+### Senior Software Engineer • Google Certified Professional Cloud Developer
+
+Building enterprise frontend platforms, cloud-native microservices, and scalable solutions on Google Cloud Platform with a strong focus on developer experience, performance, and maintainable architecture.
 
 ---
 
-## Tech Stack & Expertise
+## Core Expertise
 
-<div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '1.5rem', margin: '2rem 0' }}>
+> **Frontend Architecture • Backend Engineering • Cloud-Native Development • Microservices • REST APIs • Developer Experience • Event-Driven Systems**
 
-  <div style={{ padding: '1.5rem', borderRadius: '8px', border: '1px solid #eaeaea', boxShadow: '0 2px 4px rgba(0,0,0,0.02)' }}>
-    <h3>Frontend Engineering</h3>
-    <p>Expertise in building complex, reactive single-page applications with robust state management.</p>
-    
-    #### Frameworks
-    - Angular ⭐️⭐️⭐️⭐️⭐️
-    - React.js ⭐️⭐️⭐️⭐️⭐️
-    - Next.js ⭐️
+---
 
-    #### UI, Styling & Component Systems
-    - Tailwind CSS ⭐️⭐️⭐️⭐️
-    - SCSS / Sass ⭐️⭐️⭐️⭐️⭐️
-    - CSS Modules ⭐️⭐️⭐️⭐️
-    - Styled Components ⭐️⭐️⭐️⭐️
-    - Angular Material ⭐️⭐️⭐️⭐️⭐️
-    - MUI (Material UI) ⭐️⭐️⭐️⭐️
-    - Storybook ⭐️⭐️⭐️⭐️
+## Engineering Expertise
 
-    #### Forms & State Management
-    - Angular Reactive Forms ⭐️⭐️⭐️⭐️ 
-    - Angular Signal Forms ⭐️⭐️
-    - React Hook Forms ⭐️⭐️⭐️⭐️
-    
-    #### State & Reactivity
-    - RxJS ⭐️⭐️⭐️⭐️ 
-    - NgRX ⭐️
-    - NgXS ⭐️⭐️⭐️
-    - Redux ⭐️⭐️⭐️
+<div
+  style={{
+    display: "grid",
+    gridTemplateColumns: "repeat(auto-fit, minmax(360px, 1fr))",
+    gap: "2rem",
+    marginTop: "2.5rem"
+  }}
+>
 
-    #### Data Fetching & API Client
-    - RTK Query ⭐️⭐️⭐️
-    - Axios ⭐️⭐️⭐️⭐️
-    
-    #### Testing & Quality
-    - Jest -> ⭐️⭐️⭐️⭐️
-    - Vitest -> ⭐️⭐️⭐️⭐️
-  </div>
+<div
+style={{
+padding:"2rem",
+borderRadius:"18px",
+background:"var(--ifm-card-background-color)",
+boxShadow:"0 6px 18px rgba(0,0,0,.06)"
+}}
+>
 
-  <div style={{ padding: '1.5rem', borderRadius: '8px', border: '1px solid #eaeaea', boxShadow: '0 2px 4px rgba(0,0,0,0.02)' }}>
-    <h3>Backend & Runtimes</h3>
-    <p>Designing scalable, event-driven RESTful APIs and microservices using the Node ecosystem.</p>
-    
-    #### Runtime
-    - Node.js ⭐️⭐️⭐️⭐️
-    
-    #### Frameworks
-    - Express.js ⭐️⭐️⭐️⭐️
-    - Koa.js ⭐️⭐️⭐️⭐️
-    - Nest.js ⭐️⭐️
-  </div>
+# 💻 Frontend Engineering
 
-  <div style={{ padding: '1.5rem', borderRadius: '8px', border: '1px solid #eaeaea', boxShadow: '0 2px 4px rgba(0,0,0,0.02)' }}>
-    <h3>Monorepos & Build Tools</h3>
-    <p>Architecting unified codebases, optimizing CI/CD caching pipelines, and managing complex workspaces.</p>
-    
-    #### Build Systems & Tooling
-    - Nx ⭐️
-    - Turborepo ⭐️⭐️⭐️
+Building modern, scalable single-page applications with reusable component architectures and robust state management.
 
-    #### AI IDEs & Agentic Workflows
-    - Cursor
-    - Google Antigravity
-  </div>
+### Frameworks
 
-  <div style={{ padding: '1.5rem', borderRadius: '8px', border: '1px solid #eaeaea', boxShadow: '0 2px 4px rgba(0,0,0,0.02)' }}>
-    <h3>Databases & ORMs</h3>
-    <p>Data modeling, query optimization, and abstracting data layers seamlessly.</p>
-    
-    #### Relational (SQL)
-    - PostgreSQL ⭐️⭐️⭐️
-    - MySQL ⭐️⭐️⭐️
-    - ORMs:
-      - Sequelize ⭐️⭐️⭐️ 
-      - Prisma ⭐️
-    
-    #### Non-Relational (NoSQL)
-    - MongoDB ⭐️⭐️⭐️⭐️
-    - Redis ⭐️
-    - ODM:
-      - Mongoose ⭐️⭐️⭐️⭐️
-  </div>
+- **React.js** · Expert
+- **Angular** · Expert
+- **Next.js** · Beginner
 
-  <div style={{ padding: '1.5rem', borderRadius: '8px', border: '1px solid #eaeaea', boxShadow: '0 2px 4px rgba(0,0,0,0.02)' }}>
-    <h3>Google Cloud Platform</h3>
-    <p>Certified developer utilizing GCP to build secure, highly available enterprise systems.</p>
-    
-    #### Core Services
-    - Cloud Run Functions (Serverless Microservices & Event-Driven Code)
-    - Cloud Runs (Serverless Container Platform)
-    - Cloud Storage (Scalable Object Storage for Unstructured Data)
-    - Cloud Tasks (Asynchronous Task Execution & Queues)
-    - CloudSQL & AlloyDB (Managed Databases)
-    - EventArc (Asynchronous Event Routing)
-    - Pub/Sub (Asynchronous Messaging)
-    
-    #### Domain Expertise
-    - GCP Healthcare API (HL7v2, FHIR, DICOM integration)
-  </div>
+### UI & Styling
+
+- Tailwind CSS
+- SCSS / Sass
+- CSS Modules
+- Styled Components
+- Angular Material
+- Material UI (MUI)
+- Storybook
+
+### Forms
+
+- Angular Reactive Forms
+- Angular Signal Forms
+- React Hook Form
+
+### State Management
+
+- RxJS
+- Redux
+- NgXS
+- NgRx
+- RTK Query
+
+### API Clients
+
+- Axios
+
+### Testing
+
+- Jest
+- Vitest
+
+</div>
+
+<div
+style={{
+padding:"2rem",
+borderRadius:"18px",
+background:"var(--ifm-card-background-color)",
+boxShadow:"0 6px 18px rgba(0,0,0,.06)"
+}}
+>
+
+# ⚙️ Backend Engineering
+
+Designing scalable REST APIs, event-driven services, and production-ready backend systems using the Node.js ecosystem.
+
+### Runtime
+
+- Node.js
+
+### Frameworks
+
+- Express.js
+- Koa.js
+- NestJS
+
+### Architecture
+
+- REST APIs
+- Event-Driven Architecture
+- Microservices
+
+</div>
+
+<div
+style={{
+padding:"2rem",
+borderRadius:"18px",
+background:"var(--ifm-card-background-color)",
+boxShadow:"0 6px 18px rgba(0,0,0,.06)"
+}}
+>
+
+# ☁️ Google Cloud Platform
+
+Google Certified Professional Cloud Developer with experience building secure, scalable cloud-native systems.
+
+### Compute
+
+- Cloud Run
+- Cloud Functions
+
+### Messaging & Events
+
+- Pub/Sub
+- Eventarc
+- Cloud Tasks
+
+### Storage
+
+- Cloud Storage
+
+### Databases
+
+- Cloud SQL
+- AlloyDB
+
+### Domain Expertise
+
+- Healthcare API
+- HL7v2
+- FHIR
+- DICOM
+
+</div>
+
+<div
+style={{
+padding:"2rem",
+borderRadius:"18px",
+background:"var(--ifm-card-background-color)",
+boxShadow:"0 6px 18px rgba(0,0,0,.06)"
+}}
+>
+
+# 🗄️ Databases
+
+Designing efficient schemas, optimizing queries, and building scalable data access layers.
+
+### SQL
+
+- PostgreSQL
+- MySQL
+
+### ORM
+
+- Sequelize
+- Prisma
+
+### NoSQL
+
+- MongoDB
+- Redis
+
+### ODM
+
+- Mongoose
+
+</div>
+
+<div
+style={{
+padding:"2rem",
+borderRadius:"18px",
+background:"var(--ifm-card-background-color)",
+boxShadow:"0 6px 18px rgba(0,0,0,.06)"
+}}
+>
+
+# 🏗️ Developer Experience
+
+Improving engineering productivity through modern tooling, monorepos, and AI-assisted development workflows.
+
+### Monorepos
+
+- Turborepo
+- Nx
+
+### Build & Tooling
+
+- Modern JavaScript Tooling
+- Workspace Optimization
+
+### AI Development
+
+- Cursor
+- Google Antigravity
+
+</div>
 
 </div>
