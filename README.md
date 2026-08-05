@@ -67,6 +67,10 @@ Welcome to my portfolio! I am a seasoned engineer specializing in building robus
     #### Build Systems & Tooling
     - **Nx** ⭐️
     - **Turborepo** ⭐️⭐️⭐️
+
+    #### AI IDEs & Agentic Workflows
+    - **Cursor**
+    - **Google Antigravity**
   </div>
 
   <div style={{ padding: '1.5rem', borderRadius: '8px', border: '1px solid #eaeaea', boxShadow: '0 2px 4px rgba(0,0,0,0.02)' }}>
