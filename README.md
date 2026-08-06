@@ -1,6 +1,6 @@
 # [Akhil Joseph](https://akhiljozph.github.io/akhiljozph/)
 
-### Senior Software Engineer • Google Certified Professional Cloud Developer
+## Senior Software Engineer • Google Certified Professional Cloud Developer
 
 Building enterprise frontend platforms, cloud-native microservices, and scalable solutions on Google Cloud Platform with a strong focus on developer experience, performance, and maintainable architecture.
 
@@ -8,41 +8,23 @@ Building enterprise frontend platforms, cloud-native microservices, and scalable
 
 ## Core Expertise
 
-> **Frontend Architecture • Backend Engineering • Cloud-Native Development • Microservices • REST APIs • Developer Experience • Event-Driven Systems**
+**Frontend Architecture • Backend Engineering • Cloud-Native Development • Microservices • REST APIs • Developer Experience • Event-Driven Systems**
 
 ---
 
 ## Engineering Expertise
 
-<div
-  style={{
-    display: "grid",
-    gridTemplateColumns: "repeat(auto-fit, minmax(360px, 1fr))",
-    gap: "2rem",
-    marginTop: "2.5rem"
-  }}
->
-
-<div
-style={{
-padding:"2rem",
-borderRadius:"18px",
-background:"var(--ifm-card-background-color)",
-boxShadow:"0 6px 18px rgba(0,0,0,.06)"
-}}
->
-
-# 💻 Frontend Engineering
+### Frontend Engineering
 
 Building modern, scalable single-page applications with reusable component architectures and robust state management.
 
-### Frameworks
+#### Frameworks
 
-- **React.js** · Expert
-- **Angular** · Expert
-- **Next.js** · Beginner
+- **React.js**
+- **Angular**
+- **Next.js**
 
-### UI & Styling
+#### UI & Styling
 
 - Tailwind CSS
 - SCSS / Sass
@@ -52,13 +34,13 @@ Building modern, scalable single-page applications with reusable component archi
 - Material UI (MUI)
 - Storybook
 
-### Forms
+#### Forms
 
 - Angular Reactive Forms
 - Angular Signal Forms
 - React Hook Form
 
-### State Management
+#### State Management
 
 - RxJS
 - Redux
@@ -66,152 +48,104 @@ Building modern, scalable single-page applications with reusable component archi
 - NgRx
 - RTK Query
 
-### API Clients
+#### API Clients
 
 - Axios
 
-### Testing
+#### Testing
 
 - Jest
 - Vitest
 
-</div>
-
-<div
-style={{
-padding:"2rem",
-borderRadius:"18px",
-background:"var(--ifm-card-background-color)",
-boxShadow:"0 6px 18px rgba(0,0,0,.06)"
-}}
->
-
-# ⚙️ Backend Engineering
+### Backend Engineering
 
 Designing scalable REST APIs, event-driven services, and production-ready backend systems using the Node.js ecosystem.
 
-### Runtime
+#### Runtime
 
 - Node.js
 
-### Frameworks
+#### Frameworks
 
 - Express.js
 - Koa.js
 - NestJS
 
-### Architecture
+#### Architecture
 
 - REST APIs
 - Event-Driven Architecture
 - Microservices
 
-</div>
-
-<div
-style={{
-padding:"2rem",
-borderRadius:"18px",
-background:"var(--ifm-card-background-color)",
-boxShadow:"0 6px 18px rgba(0,0,0,.06)"
-}}
->
-
-# ☁️ Google Cloud Platform
+### Google Cloud Platform
 
 Google Certified Professional Cloud Developer with experience building secure, scalable cloud-native systems.
 
-### Compute
+#### Compute
 
 - Cloud Run
 - Cloud Functions
 
-### Messaging & Events
+#### Messaging & Events
 
 - Pub/Sub
 - Eventarc
 - Cloud Tasks
 
-### Storage
+#### Storage
 
 - Cloud Storage
 
-### Databases
+#### Databases
 
 - Cloud SQL
 - AlloyDB
 
-### Domain Expertise
+#### Domain Expertise
 
 - Healthcare API
 - HL7v2
 - FHIR
 - DICOM
 
-</div>
-
-<div
-style={{
-padding:"2rem",
-borderRadius:"18px",
-background:"var(--ifm-card-background-color)",
-boxShadow:"0 6px 18px rgba(0,0,0,.06)"
-}}
->
-
-# 🗄️ Databases
+### Databases
 
 Designing efficient schemas, optimizing queries, and building scalable data access layers.
 
-### SQL
+#### SQL
 
 - PostgreSQL
 - MySQL
 
-### ORM
+#### ORM
 
 - Sequelize
 - Prisma
 
-### NoSQL
+#### NoSQL
 
 - MongoDB
 - Redis
 
-### ODM
+#### ODM
 
 - Mongoose
 
-</div>
-
-<div
-style={{
-padding:"2rem",
-borderRadius:"18px",
-background:"var(--ifm-card-background-color)",
-boxShadow:"0 6px 18px rgba(0,0,0,.06)"
-}}
->
-
-# 🏗️ Developer Experience
+### Developer Experience
 
 Improving engineering productivity through modern tooling, monorepos, and AI-assisted development workflows.
 
-### Monorepos
+#### Monorepos
 
 - Turborepo
 - Nx
 
-### Build & Tooling
+#### Build & Tooling
 
 - Modern JavaScript Tooling
 - Workspace Optimization
 
-### AI Development
+#### AI Development
 
 - Cursor
 - Google Antigravity
-
-</div>
-
-</div>
