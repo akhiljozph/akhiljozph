@@ -2,15 +2,104 @@
     const header = document.querySelector(".site-header");
     const nav = document.querySelector(".site-nav");
     const toggle = document.querySelector(".nav-toggle");
+    const themeToggleBtn = document.getElementById("theme-toggle");
     const yearEl = document.getElementById("year");
     const revealEls = document.querySelectorAll("[data-reveal]");
     const typedEl = document.querySelector(".typed-text");
     const cursorEl = document.querySelector(".typed-cursor");
     const mainEl = document.getElementById("main-content");
     const footerEl = document.querySelector(".site-footer");
+    const toastEl = document.getElementById("toast");
+    const copyEmailBtn = document.getElementById("copy-email");
 
     if (yearEl) {
         yearEl.textContent = String(new Date().getFullYear());
+    }
+
+    // Theme Switcher State & Management
+    const getSystemTheme = () =>
+        window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches
+            ? "dark"
+            : "light";
+
+    const getStoredTheme = () => {
+        try {
+            return localStorage.getItem("theme");
+        } catch {
+            return null;
+        }
+    };
+
+    const setStoredTheme = (theme) => {
+        try {
+            localStorage.setItem("theme", theme);
+        } catch {}
+    };
+
+    const applyTheme = (theme) => {
+        if (theme === "dark") {
+            document.documentElement.setAttribute("data-theme", "dark");
+            if (themeToggleBtn) {
+                themeToggleBtn.setAttribute("aria-label", "Switch to light theme");
+                themeToggleBtn.setAttribute("title", "Switch to light theme");
+            }
+        } else {
+            document.documentElement.removeAttribute("data-theme");
+            if (themeToggleBtn) {
+                themeToggleBtn.setAttribute("aria-label", "Switch to dark theme");
+                themeToggleBtn.setAttribute("title", "Switch to dark theme");
+            }
+        }
+    };
+
+    let currentTheme = getStoredTheme() || getSystemTheme();
+    applyTheme(currentTheme);
+
+    if (themeToggleBtn) {
+        themeToggleBtn.addEventListener("click", () => {
+            currentTheme = currentTheme === "dark" ? "light" : "dark";
+            applyTheme(currentTheme);
+            setStoredTheme(currentTheme);
+        });
+    }
+
+    if (window.matchMedia) {
+        window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", (e) => {
+            if (!getStoredTheme()) {
+                currentTheme = e.matches ? "dark" : "light";
+                applyTheme(currentTheme);
+            }
+        });
+    }
+
+    // Toast Notification & Copy Email
+    let toastTimeout = null;
+    const showToast = (message) => {
+        if (!toastEl) return;
+        toastEl.textContent = message;
+        toastEl.classList.add("is-active");
+        toastEl.setAttribute("aria-hidden", "false");
+
+        if (toastTimeout) clearTimeout(toastTimeout);
+        toastTimeout = setTimeout(() => {
+            toastEl.classList.remove("is-active");
+            toastEl.setAttribute("aria-hidden", "true");
+        }, 2800);
+    };
+
+    if (copyEmailBtn) {
+        copyEmailBtn.addEventListener("click", () => {
+            const email = copyEmailBtn.getAttribute("data-copy") || "ajpulluvelil@gmail.com";
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                navigator.clipboard.writeText(email).then(() => {
+                    showToast("Email address copied to clipboard!");
+                }).catch(() => {
+                    showToast("Email: " + email);
+                });
+            } else {
+                showToast("Email: " + email);
+            }
+        });
     }
 
     const prefersReduced =

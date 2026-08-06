@@ -20,42 +20,42 @@ Building modern, scalable single-page applications with reusable component archi
 
 #### Frameworks
 
-- **React.js**
-- **Angular**
-- **Next.js**
+- **React.js** 4/5
+- **Angular** - 4/5 
+- **Next.js** - 1/5
 
 #### UI & Styling
 
-- Tailwind CSS
-- SCSS / Sass
-- CSS Modules
-- Styled Components
-- Angular Material
-- Material UI (MUI)
-- Storybook
+- Tailwind CSS - 3/5
+- SCSS / Sass - 4/5
+- CSS Modules - 4/5
+- Styled Components - 4/5
+- Angular Material - 4/5
+- Material UI (MUI) - 4/5
+- Storybook - 4/5
 
 #### Forms
 
-- Angular Reactive Forms
-- Angular Signal Forms
-- React Hook Form
+- Angular Reactive Forms - 4/5
+- Angular Signal Forms - 3/5
+- React Hook Form - 3/5
 
 #### State Management
 
-- RxJS
-- Redux
-- NgXS
-- NgRx
-- RTK Query
+- RxJS - 3/5
+- Redux- 4/5
+- NgXS - 3/5
+- NgRx - 3/5
+- RTK Query - 3/5
 
 #### API Clients
 
-- Axios
+- Axios - 4/5
 
 #### Testing
 
-- Jest
-- Vitest
+- Jest - 2/5
+- Vitest - 2/5
 
 ### Backend Engineering
 
@@ -63,13 +63,13 @@ Designing scalable REST APIs, event-driven services, and production-ready backen
 
 #### Runtime
 
-- Node.js
+- Node.js - 4/5
 
 #### Frameworks
 
-- Express.js
-- Koa.js
-- NestJS
+- Express.js - 4/5
+- Koa.js - 3/5
+- NestJS - 3/5
 
 #### Architecture
 
@@ -114,22 +114,22 @@ Designing efficient schemas, optimizing queries, and building scalable data acce
 
 #### SQL
 
-- PostgreSQL
-- MySQL
+- PostgreSQL - 4/5
+- MySQL - 4/5
 
 #### ORM
 
-- Sequelize
-- Prisma
+- Sequelize - 4/5
+- Prisma - 2/5
 
 #### NoSQL
 
-- MongoDB
-- Redis
+- MongoDB - 4/5
+- Redis - 2/5
 
 #### ODM
 
-- Mongoose
+- Mongoose - 4/5
 
 ### Developer Experience
 
@@ -137,8 +137,8 @@ Improving engineering productivity through modern tooling, monorepos, and AI-ass
 
 #### Monorepos
 
-- Turborepo
-- Nx
+- Turborepo - 4/5
+- Nx - 2/5
 
 #### Build & Tooling
 
