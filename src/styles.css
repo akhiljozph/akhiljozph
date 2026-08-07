@@ -626,6 +626,31 @@ ul {
     align-items: start;
 }
 
+.expertise-block.expertise-block--stacked {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas:
+        "meta"
+        "desc"
+        "skills";
+    row-gap: clamp(1.25rem, 3vh, 2rem);
+}
+
+.expertise-block--stacked .block-meta {
+    grid-area: meta;
+}
+
+.expertise-block--stacked .block-desc {
+    grid-area: desc;
+    max-width: 60rem;
+    padding-top: 0;
+}
+
+.expertise-block--stacked .skill-groups {
+    grid-area: skills;
+    width: 100%;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 180px), 1fr));
+}
+
 .block-meta {
     display: flex;
     flex-direction: column;
