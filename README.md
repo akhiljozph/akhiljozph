@@ -20,42 +20,42 @@ Building modern, scalable single-page applications with reusable component archi
 
 #### Frameworks
 
-- **React.js** 4/5
-- **Angular** - 4/5 
-- **Next.js** - 1/5
+- React.js - ⭐⭐⭐⭐
+- Angular - ⭐⭐⭐⭐
+- Next.js - ⭐
 
 #### UI & Styling
 
-- Tailwind CSS - 3/5
-- SCSS / Sass - 4/5
-- CSS Modules - 4/5
-- Styled Components - 4/5
-- Angular Material - 4/5
-- Material UI (MUI) - 4/5
-- Storybook - 4/5
+- Tailwind CSS - ⭐⭐⭐
+- SCSS / Sass - ⭐⭐⭐⭐
+- CSS Modules - ⭐⭐⭐⭐
+- Styled Components - ⭐⭐⭐⭐
+- Angular Material - ⭐⭐⭐⭐
+- Material UI (MUI) - ⭐⭐⭐⭐
+- Storybook - ⭐⭐⭐⭐
 
 #### Forms
 
-- Angular Reactive Forms - 4/5
-- Angular Signal Forms - 3/5
-- React Hook Form - 3/5
+- Angular Reactive Forms - ⭐⭐⭐⭐
+- Angular Signal Forms - ⭐⭐⭐
+- React Hook Form - ⭐⭐⭐
 
 #### State Management
 
-- RxJS - 3/5
-- Redux- 4/5
-- NgXS - 3/5
-- NgRx - 3/5
-- RTK Query - 3/5
+- RxJS - ⭐⭐⭐
+- Redux- ⭐⭐⭐⭐
+- NgXS - ⭐⭐⭐
+- NgRx - ⭐⭐⭐
+- RTK Query - ⭐⭐⭐
 
 #### API Clients
 
-- Axios - 4/5
+- Axios - ⭐⭐⭐⭐
 
 #### Testing
 
-- Jest - 2/5
-- Vitest - 2/5
+- Jest - ⭐⭐
+- Vitest - ⭐⭐
 
 ### Backend Engineering
 
@@ -63,13 +63,13 @@ Designing scalable REST APIs, event-driven services, and production-ready backen
 
 #### Runtime
 
-- Node.js - 4/5
+- Node.js - ⭐⭐⭐⭐
 
 #### Frameworks
 
-- Express.js - 4/5
-- Koa.js - 3/5
-- NestJS - 3/5
+- Express.js - ⭐⭐⭐⭐
+- Koa.js - ⭐⭐⭐
+- NestJS - ⭐⭐⭐
 
 #### Architecture
 
@@ -114,22 +114,22 @@ Designing efficient schemas, optimizing queries, and building scalable data acce
 
 #### SQL
 
-- PostgreSQL - 4/5
-- MySQL - 4/5
+- PostgreSQL - ⭐⭐⭐⭐
+- MySQL - ⭐⭐⭐⭐
 
 #### ORM
 
-- Sequelize - 4/5
-- Prisma - 2/5
+- Sequelize - ⭐⭐⭐⭐
+- Prisma - ⭐⭐
 
 #### NoSQL
 
-- MongoDB - 4/5
-- Redis - 2/5
+- MongoDB - ⭐⭐⭐⭐
+- Redis - ⭐⭐
 
 #### ODM
 
-- Mongoose - 4/5
+- Mongoose - ⭐⭐⭐⭐
 
 ### Developer Experience
 
@@ -137,8 +137,8 @@ Improving engineering productivity through modern tooling, monorepos, and AI-ass
 
 #### Monorepos
 
-- Turborepo - 4/5
-- Nx - 2/5
+- Turborepo - ⭐⭐⭐⭐
+- Nx - ⭐⭐
 
 #### Build & Tooling
 
