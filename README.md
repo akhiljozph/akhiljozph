@@ -153,3 +153,11 @@ Improving engineering productivity through modern tooling, monorepos, and AI-ass
 
 - Cursor
 - Google Antigravity
+
+## Industry Domain Expertise
+
+- Healthcare
+- Logistics & Supplychain
+- Blockchain
+- Automative
+- FoodTech
