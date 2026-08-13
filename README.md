@@ -101,6 +101,10 @@ Google Certified Professional Cloud Developer with experience building secure, s
 - Cloud SQL
 - AlloyDB
 
+#### Databases
+
+- Secret Manager
+
 #### Domain Expertise
 
 - GCP Healthcare API
