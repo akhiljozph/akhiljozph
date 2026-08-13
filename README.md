@@ -103,7 +103,7 @@ Google Certified Professional Cloud Developer with experience building secure, s
 
 #### Domain Expertise
 
-- Healthcare API
+- GCP Healthcare API
 - HL7v2
 - FHIR
 - DICOM
