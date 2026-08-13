@@ -70,7 +70,6 @@ Designing scalable REST APIs, event-driven services, and production-ready backen
 - Express.js - ⭐⭐⭐⭐
 - Koa.js - ⭐⭐⭐
 - NestJS - ⭐⭐⭐
-- Fastify -
 
 #### Architecture
 
