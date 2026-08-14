@@ -157,7 +157,7 @@ Improving engineering productivity through modern tooling, monorepos, and AI-ass
 ## Industry Domain Expertise
 
 - Healthcare
-- Logistics & Supplychain
+- Logistics & Supply Chain
 - Blockchain
-- Automative
+- Automotive
 - FoodTech

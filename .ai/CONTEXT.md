@@ -29,6 +29,13 @@
 - **ORM / ODM**: Sequelize, Prisma, Mongoose
 - **Monorepos & DX**: Turborepo, Nx, Cursor, Google Antigravity
 
+### Industry Domain Expertise
+- Healthcare
+- Logistics & Supply Chain
+- Blockchain
+- Automotive
+- FoodTech
+
 ## Workspace Setup
 - **Web App Root**: `./src`
 - **Configuration & Rules**: `GEMINI.md` and `.ai/`
