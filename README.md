@@ -146,13 +146,13 @@ Improving engineering productivity through modern tooling, monorepos, and AI-ass
 
 #### Build & Tooling
 
-- Modern JavaScript Tooling
-- Workspace Optimization
+- Modern JavaScript Tooling - ⭐⭐⭐⭐
+- Workspace Optimization - ⭐⭐⭐⭐
 
 #### AI Development
 
-- Cursor
-- Google Antigravity
+- Cursor - ⭐⭐⭐⭐
+- Google Antigravity - ⭐⭐⭐⭐
 
 ## Industry Domain Expertise
 
