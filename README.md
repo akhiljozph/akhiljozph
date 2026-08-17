@@ -124,7 +124,7 @@ Designing efficient schemas, optimizing queries, and building scalable data acce
 #### ORM
 
 - Sequelize - ⭐⭐⭐⭐
-- Prisma - ⭐⭐
+- Prisma - ⭐⭐⭐
 
 #### NoSQL
 
