@@ -147,7 +147,7 @@ Improving engineering productivity through modern tooling, monorepos, and AI-ass
 #### Build & Tooling
 
 - Modern JavaScript Tooling - ⭐⭐⭐⭐
-- Workspace Optimization - ⭐⭐⭐⭐
+- Workspace Optimization - ⭐⭐⭐
 
 #### AI Development
 
