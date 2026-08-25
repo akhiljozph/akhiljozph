@@ -141,7 +141,7 @@ Improving engineering productivity through modern tooling, monorepos, and AI-ass
 
 #### Monorepos
 
-- Turborepo - ⭐⭐⭐⭐
+- Turborepo - ⭐⭐⭐
 - Nx - ⭐⭐
 
 #### Build & Tooling
