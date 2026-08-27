@@ -43,7 +43,7 @@ Building modern, scalable single-page applications with reusable component archi
 #### State Management
 
 - RxJS - ⭐⭐⭐
-- Redux- ⭐⭐⭐⭐
+- Redux- ⭐⭐⭐
 - NgXS - ⭐⭐⭐
 - NgRx - ⭐⭐⭐
 - RTK Query - ⭐⭐⭐
