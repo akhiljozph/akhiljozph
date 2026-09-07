@@ -109,7 +109,6 @@ Google Certified Professional Cloud Developer with experience building secure, s
 
 - GCP Healthcare API
 - HL7v2
-- FHIR
 - DICOM
 
 ### Databases
