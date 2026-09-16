@@ -105,6 +105,7 @@ Google Certified Professional Cloud Developer with experience building secure, s
 #### Databases
 
 - Secret Manager
+- Cloud Scheduler
 
 #### Domain Expertise
 
