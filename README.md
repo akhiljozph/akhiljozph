@@ -102,9 +102,12 @@ Google Certified Professional Cloud Developer with experience building secure, s
 - Cloud SQL
 - AlloyDB
 
-#### Databases
+#### Security & Identity
 
 - Secret Manager
+
+#### Management & Tools
+
 - Cloud Scheduler
 
 #### Domain Expertise
