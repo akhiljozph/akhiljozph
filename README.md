@@ -155,8 +155,9 @@ Improving engineering productivity through modern tooling, monorepos, and AI-ass
 
 #### AI Development
 
-- Cursor - ⭐⭐⭐⭐
-- Google Antigravity - ⭐⭐⭐⭐
+- Cursor
+- Google Antigravity
+- NeuBird
 
 ## Industry Domain Expertise
 
