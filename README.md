@@ -35,6 +35,7 @@ Building modern, scalable single-page applications with reusable component archi
 - Storybook - ⭐⭐⭐⭐
 - Bootstrap
 - PostCSS
+- ChakraUI
 
 #### Forms
 
