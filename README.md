@@ -5,6 +5,7 @@
 Building enterprise frontend platforms, cloud-native microservices, and scalable solutions on Google Cloud Platform with a strong focus on developer experience, performance, and maintainable architecture.
 
 ---
+---
 
 ## Core Expertise
 
