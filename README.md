@@ -16,7 +16,7 @@ Building enterprise frontend platforms, cloud-native microservices, and scalable
 
 ### Frontend Engineering
 
-Building modern, scalable single-page applications with reusable component architectures and robust state management.
+Building modern, scalable single-page applications with reusable component architectures, robust state management, and client-side persistence.
 
 #### Frameworks
 
@@ -44,7 +44,7 @@ Building modern, scalable single-page applications with reusable component archi
 #### State Management
 
 - RxJS - ⭐⭐⭐
-- Redux- ⭐⭐⭐
+- Redux - ⭐⭐⭐
 - NgXS - ⭐⭐⭐
 - NgRx - ⭐⭐⭐
 - RTK Query - ⭐⭐⭐
@@ -55,7 +55,7 @@ Building modern, scalable single-page applications with reusable component archi
 
 #### Client Storage
 
-- IndexdDB - ⭐⭐⭐
+- IndexedDB - ⭐⭐⭐
 - Dexie.js - ⭐⭐⭐
 
 #### Testing
@@ -163,6 +163,8 @@ Improving engineering productivity through modern tooling, monorepos, and AI-ass
 - Cursor
 - Google Antigravity
 - NeuBird
+
+---
 
 ## Industry Domain Expertise
 
