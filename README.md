@@ -53,6 +53,11 @@ Building modern, scalable single-page applications with reusable component archi
 
 - Axios - ⭐⭐⭐⭐
 
+#### Client Storage
+
+- IndexdDB - ⭐⭐⭐
+- Dexie.js - ⭐⭐⭐
+
 #### Testing
 
 - Jest - ⭐⭐
