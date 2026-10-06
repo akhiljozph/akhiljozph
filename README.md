@@ -23,6 +23,7 @@ Building modern, scalable single-page applications with reusable component archi
 - React.js - ⭐⭐⭐⭐
 - Angular - ⭐⭐⭐⭐
 - Next.js - ⭐
+- Svelte 
 
 #### UI & Styling
 
