@@ -5,7 +5,6 @@
 Building enterprise frontend platforms, cloud-native microservices, and scalable solutions on Google Cloud Platform with a strong focus on developer experience, performance, and maintainable architecture.
 
 ---
----
 
 ## Core Expertise
 
@@ -24,7 +23,7 @@ Building modern, scalable single-page applications with reusable component archi
 - React.js - ⭐⭐⭐⭐
 - Angular - ⭐⭐⭐⭐
 - Next.js - ⭐
-- Svelte 
+- Svelte - ⭐
 
 #### UI & Styling
 
@@ -46,7 +45,7 @@ Building modern, scalable single-page applications with reusable component archi
 #### State Management
 
 - RxJS - ⭐⭐⭐
-- Redux - ⭐⭐⭐
+- Redux - ⭐⭐⭐⭐
 - NgXS - ⭐⭐⭐
 - NgRx - ⭐⭐⭐
 - RTK Query - ⭐⭐⭐
@@ -78,12 +77,13 @@ Designing scalable REST APIs, event-driven services, and production-ready backen
 - Express.js - ⭐⭐⭐⭐
 - Koa.js - ⭐⭐⭐
 - NestJS - ⭐⭐⭐
+- Fastify - ⭐
 
 #### Architecture
 
 - REST APIs
-- Event-Driven Architecture
 - Microservices
+- Event-Driven Architecture
 
 ### Google Cloud Platform
 
