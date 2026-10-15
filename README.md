@@ -81,9 +81,9 @@ Designing scalable REST APIs, event-driven services, and production-ready backen
 
 #### Architecture
 
-- REST APIs
-- Microservices
-- Event-Driven Architecture
+- REST APIs - ⭐⭐⭐⭐
+- Microservices - ⭐⭐⭐⭐
+- Event-Driven Architecture - ⭐⭐⭐⭐
 
 ### Google Cloud Platform
 
