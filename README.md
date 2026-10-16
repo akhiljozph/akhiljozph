@@ -91,8 +91,8 @@ Google Certified Professional Cloud Developer with experience building secure, s
 
 #### Compute
 
-- Cloud Run
-- Cloud Functions
+- Cloud Run - ⭐⭐⭐⭐
+- Cloud Functions - ⭐⭐⭐⭐
 
 #### Messaging & Events
 
