@@ -96,7 +96,7 @@ Google Certified Professional Cloud Developer with experience building secure, s
 
 #### Messaging & Events
 
-- Pub/Sub
+- Pub/Sub - ⭐⭐⭐⭐
 - Eventarc
 - Cloud Tasks
 
