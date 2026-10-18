@@ -20,49 +20,48 @@ Building modern, scalable single-page applications with reusable component archi
 
 #### Frameworks
 
-- React.js - ⭐⭐⭐⭐
-- Angular - ⭐⭐⭐⭐
-- Next.js - ⭐
-- Svelte - ⭐
+- React.js
+- Angular
+- Next.js
+- Svelte
 
 #### UI & Styling
 
-- Tailwind CSS - ⭐⭐⭐
-- SCSS / Sass - ⭐⭐⭐⭐
-- CSS Modules - ⭐⭐⭐⭐
-- Styled Components - ⭐⭐⭐⭐
-- Angular Material - ⭐⭐⭐⭐
-- Material UI (MUI) - ⭐⭐⭐⭐
-- Storybook - ⭐⭐⭐⭐
-- Bootstrap - ⭐⭐⭐⭐
-
+- Tailwind CSS
+- SCSS / Sass
+- CSS Modules
+- Styled Components
+- Angular Material
+- Material UI (MUI)
+- Storybook
+- Bootstrap
 #### Forms
 
-- Angular Reactive Forms - ⭐⭐⭐⭐
-- Angular Signal Forms - ⭐⭐⭐
-- React Hook Form - ⭐⭐⭐
+- Angular Reactive Forms
+- Angular Signal Forms
+- React Hook Form
 
 #### State Management
 
-- RxJS - ⭐⭐⭐
-- Redux - ⭐⭐⭐⭐
-- NgXS - ⭐⭐⭐
-- NgRx - ⭐⭐⭐
-- RTK Query - ⭐⭐⭐
+- RxJS
+- Redux
+- NgXS
+- NgRx
+- RTK Query
 
 #### API Clients
 
-- Axios - ⭐⭐⭐⭐
+- Axios
 
 #### Client Storage
 
-- IndexedDB - ⭐⭐⭐
-- Dexie.js - ⭐⭐⭐
+- IndexedDB
+- Dexie.js
 
 #### Testing
 
-- Jest - ⭐⭐
-- Vitest - ⭐⭐
+- Jest
+- Vitest
 
 ### Backend Engineering
 
@@ -70,20 +69,20 @@ Designing scalable REST APIs, event-driven services, and production-ready backen
 
 #### Runtime
 
-- Node.js - ⭐⭐⭐⭐
+- Node.js
 
 #### Frameworks
 
-- Express.js - ⭐⭐⭐⭐
-- Koa.js - ⭐⭐⭐
-- NestJS - ⭐⭐⭐
-- Fastify - ⭐
+- Express.js
+- Koa.js
+- NestJS
+- Fastify
 
 #### Architecture
 
-- REST APIs - ⭐⭐⭐⭐
-- Microservices - ⭐⭐⭐⭐
-- Event-Driven Architecture - ⭐⭐⭐⭐
+- REST APIs
+- Microservices
+- Event-Driven Architecture
 
 ### Google Cloud Platform
 
@@ -91,12 +90,12 @@ Google Certified Professional Cloud Developer with experience building secure, s
 
 #### Compute
 
-- Cloud Run - ⭐⭐⭐⭐
-- Cloud Functions - ⭐⭐⭐⭐
+- Cloud Run
+- Cloud Functions
 
 #### Messaging & Events
 
-- Pub/Sub - ⭐⭐⭐⭐
+- Pub/Sub
 - Eventarc
 - Cloud Tasks
 
@@ -129,22 +128,22 @@ Designing efficient schemas, optimizing queries, and building scalable data acce
 
 #### SQL
 
-- PostgreSQL - ⭐⭐⭐⭐
-- MySQL - ⭐⭐⭐⭐
+- PostgreSQL
+- MySQL
 
 #### ORM
 
-- Sequelize - ⭐⭐⭐⭐
-- Prisma - ⭐⭐
+- Sequelize
+- Prisma
 
 #### NoSQL
 
-- MongoDB - ⭐⭐⭐⭐
-- Redis - ⭐⭐
+- MongoDB
+- Redis
 
 #### ODM
 
-- Mongoose - ⭐⭐⭐⭐
+- Mongoose
 
 ### Developer Experience
 
@@ -152,13 +151,13 @@ Improving engineering productivity through modern tooling, monorepos, and AI-ass
 
 #### Monorepos
 
-- Turborepo - ⭐⭐⭐
-- Nx - ⭐⭐
+- Turborepo
+- Nx
 
 #### Build & Tooling
 
-- Modern JavaScript Tooling - ⭐⭐⭐⭐
-- Workspace Optimization - ⭐⭐⭐
+- Modern JavaScript Tooling
+- Workspace Optimization
 
 #### AI Development
 
