@@ -8,8 +8,6 @@ Building enterprise frontend platforms, cloud-native microservices, and scalable
 
 **Frontend Architecture • Backend Engineering • Cloud-Native Development • Microservices • REST APIs • Developer Experience • Event-Driven Systems**
 
----
-
 ## Engineering Expertise
 
 ### Frontend Engineering
