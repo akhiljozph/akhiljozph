@@ -6,6 +6,7 @@ Building enterprise frontend platforms, cloud-native microservices, and scalable
 
 ## Core Expertise
 ---
+---
 
 **Frontend Architecture • Backend Engineering • Cloud-Native Development • Microservices • REST APIs • Developer Experience • Event-Driven Systems**
 
