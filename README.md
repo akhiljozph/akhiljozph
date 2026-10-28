@@ -10,6 +10,7 @@ Building enterprise frontend platforms, cloud-native microservices, and scalable
 
 ## Engineering Expertise
 ---
+---
 
 ### Frontend Engineering
 
